@@ -8,6 +8,10 @@
   const filter = $('#group-filter');
   const toggle = $('#toggle-entries');
   const directory = $('.directory');
+  const chronologyDirectory = $('.chronology-directory');
+  const compactChronology = window.matchMedia('(max-width: 1279px)');
+  chronologyDirectory.open = !compactChronology.matches;
+  compactChronology.addEventListener('change', event => {chronologyDirectory.open = !event.matches;});
   const normalize = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase();
   const corpus = new Map(entries.map(entry => [entry, normalize(entry.textContent)]));
   let searching = false;
@@ -47,6 +51,7 @@
     for (const item of indexItems) item.hidden = document.getElementById(item.dataset.for).hidden;
     for (const group of document.querySelectorAll('.index-group')) group.hidden = !group.querySelector('li:not([hidden])');
     $('#result-count').textContent = visible.length === 57 ? '显示全部 57 条' : `显示 ${visible.length} / 57 条`;
+    $('.chronology-count').textContent = `${visible.length} 条`;
     $('#empty-state').hidden = visible.length > 0;
     $('#clear-search').hidden = !search.value;
     updateToggle();
@@ -67,10 +72,12 @@
       const anchor = item.querySelector('a');
       if (selected) {
         anchor.setAttribute('aria-current', 'location');
-        item.closest('.index-group').open = true;
+        const indexGroup = item.closest('.index-group');
+        if (indexGroup) indexGroup.open = true;
       } else anchor.removeAttribute('aria-current');
     }
     if (narrow.matches) directory.open = false;
+    if (compactChronology.matches) chronologyDirectory.open = false;
     requestAnimationFrame(() => {
       entry.querySelector('summary').focus({preventScroll:true});
       entry.scrollIntoView({block:'start', behavior:'instant'});

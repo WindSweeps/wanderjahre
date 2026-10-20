@@ -31,6 +31,9 @@ def rich(text):
 
 
 def build_site(sources, notes, titles, groups, intro):
+    import json
+    periods = json.loads((P / 'historical_periods.json').read_text())['entries']
+    assert set(periods) == {s['id'] for s in sources}
     by_id = {x['id']: x for x in notes}
     css = (P / 'reader.css').read_text()
     js = (P / 'reader.js').read_text()
@@ -44,6 +47,12 @@ def build_site(sources, notes, titles, groups, intro):
             routes.append(f'<li><p>{escape(question)}</p><div class="route-refs">{rich(refs)}</div><p class="muted">{escape(purpose)}</p></li>')
     nav = []
     sections = []
+    chronology = []
+    for s in sorted(sources, key=lambda s: (periods[s['id']]['sort_year'] is None, periods[s['id']]['sort_year'] or 0, s['id'][0], int(s['id'][1:]))):
+        sid = s['id']
+        period = periods[sid]
+        chronology.append(f'<li data-for="ref-{sid}"><a href="#ref-{sid}" title="{escape(period["basis"], quote=True)}"><span class="chronology-date">{escape(period["label"])}</span><span class="chronology-title"><span>{sid}</span> {escape(titles[sid])}</span></a></li>')
+    timeline = f'''<aside class="chronology" aria-label="按研究历史时间排序的资料索引"><details class="chronology-directory" open><summary>历史时间 <span class="chronology-count">57 条</span></summary><div class="chronology-body"><p class="chronology-note">按研究对象或史料事件的年代排列。约略时期按起点定位；跨期研究单列。</p><ol>{''.join(chronology)}</ol></div></details></aside>'''
     for prefix, label in groups:
         subset = [s for s in sources if s['id'].startswith(prefix)]
         nav.append(f'<details class="index-group" {"open" if prefix == "H" else ""}><summary><span>{prefix} · {escape(label)}</span><span class="count">{len(subset)}</span></summary><ol>')
@@ -63,7 +72,7 @@ def build_site(sources, notes, titles, groups, intro):
             warning = '<span class="limited">仅书目 · 未取得正文</span>' if sid in ('H11', 'A11') else ''
             bibliographic = f'<p class="bibliographic">{rich(s["locator"])}</p>' if s.get('locator') else ''
             entries.append(f'''<details class="entry" id="ref-{sid}" data-group="{prefix}" {"open" if sid == "H1" else ""}>
-<summary><span class="entry-id">{sid}</span><span class="entry-heading"><span class="entry-title">{escape(titles[sid])}</span><span class="entry-meta">{escape(s['author'])} · {escape(str(s['year']))}</span>{warning}</span><span class="expand-mark" aria-hidden="true"></span></summary>
+<summary><span class="entry-id">{sid}</span><span class="entry-heading"><span class="entry-title">{escape(titles[sid])}</span><span class="entry-meta">{escape(s['author'])} · 出版／编订：{escape(str(s['year']))}</span><span class="research-period">研究时段：{escape(periods[sid]['label'])}</span>{warning}</span><span class="expand-mark" aria-hidden="true"></span></summary>
 <div class="entry-body">
 <p class="source-title" data-field="title">{link(s['title'], s['url'])}</p>{bibliographic}
 <dl class="reading-scope"><dt>实际阅读范围</dt><dd data-field="read_scope">{rich(a['read_scope'])}</dd></dl>
@@ -81,6 +90,7 @@ def build_site(sources, notes, titles, groups, intro):
 <body><a class="skip-link" href="#reading">跳到文献正文</a>
 <header class="masthead"><div class="masthead-inner"><a class="wordmark" href="#top" lang="de">Wanderjahre</a><h1>文献导读</h1><nav aria-label="文档导航"><a href="wanderjahre.html">研究综述</a><a href="wanderjahre-annotated-bibliography.md" download>下载 Markdown</a><button type="button" data-print hidden>打印</button></nav></div></header>
 <div class="layout" id="top"><aside class="sidebar" aria-label="文献索引"><details class="directory" open><summary>文献目录 <span>57 条</span></summary><div class="directory-body">{''.join(nav)}<p class="sidebar-note">核心时段 1350—1650<br>制度、艺术与跨地域比较</p></div></details></aside>
+{timeline}
 <main id="reading" tabindex="-1"><div class="reader-heading"><p>文艺复兴前后的工匠游历</p><span>57 条参考资料</span></div>
 <div class="reader-tools" hidden><div class="search-line"><label class="sr-only" for="reader-search">搜索编号、作者、题名或正文</label><input id="reader-search" type="search" placeholder="搜索编号、作者、题名或正文…" autocomplete="off" spellcheck="false"><button id="clear-search" type="button" hidden>清除</button></div><div class="tool-row"><label class="sr-only" for="group-filter">资料分组</label><select id="group-filter"><option value="all">全部资料</option>{''.join(f'<option value="{k}">{k} · {escape(v)}</option>' for k,v in groups)}</select><button type="button" id="toggle-entries" aria-expanded="false">展开全部</button></div><p id="result-count" class="result-count" aria-live="polite">显示全部 57 条</p></div>
 <div class="reading-notes"><details class="reading-note"><summary>阅读说明与证据边界</summary><div><p>以下为已有导读的网页呈现。文献核读记录日期为 2026年10月7日；网页整理日期为 2026年10月20日。</p><p>每条保留实际阅读范围、原文类型与定位。“追问与用途”为本次调研的分析，译文为译解；均不冒充作者原话。编号沿用原调研，跳号保留。</p><p>H11、A11未取得实质正文；A4短摘为章节题名；A7依据馆方图录介绍；A17依据抄本编目。A5是Stewart的书评，不能归为Luber原话。详情在对应条目中注明。</p><p>书目、摘要和局部精读不等于全文通读。此页转换保留原有资料判断，未重新核查全部外部网页。</p></div></details><details class="reading-note"><summary>按问题并读</summary><ol class="reading-routes">{''.join(routes)}</ol></details></div>

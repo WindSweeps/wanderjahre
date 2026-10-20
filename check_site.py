@@ -40,6 +40,10 @@ def check():
     sources = json.loads((ROOT / 'sources.json').read_text())
     expected = {'ref-' + source['id'] for source in sources}
     reader = parse(ROOT / 'index.html')
+    periods = json.loads((ROOT / 'historical_periods.json').read_text())['entries']
+    assert set(periods) == {source['id'] for source in sources}
+    for sid, period in periods.items():
+        assert period['label'] and period['basis'], f'Missing historical scope: {sid}'
     assert len(expected) == 57
     assert set(reader.entries) == expected, 'Reader references differ from the source records'
     assert len(reader.quotes) == 57, 'Reader must include all 57 excerpts'
