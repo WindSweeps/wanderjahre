@@ -1,0 +1,322 @@
+[
+  {
+    "id": "C1",
+    "title": "Craft Guilds, Apprenticeship, and Technological Change in Preindustrial Europe",
+    "author": "S. R. Epstein",
+    "year": "1998",
+    "source_url": "https://www.sss.tsinghua.edu.cn/__local/A/CF/37/5F58889EE5A81202AFE4C821DC0_C2F3C155_16D7F1.pdf?e=.pdf",
+    "read_scope": "清华大学公开课程资料所收发表版；重点核读印刷页684–690、702–705，非逐页通读。",
+    "summary": "文章重新解释前工业欧洲制造业行会：它们可能通过分担训练成本、约束机会主义行为，支持可转移技能的形成。作者将工匠迁移视为技术传播的重要渠道，并区分组织的排他意图与日常实践产生的非预期知识外溢，反对只由垄断条文推定总体经济后果。",
+    "points": [
+      "技能常依附于身体实践，训练需要解决成本分摊和履约问题；作者据此解释行会的存在，而非只诉诸定价垄断。",
+      "师傅移居与帮工暂时旅行都可传递知识，但开放交流未必是行会本意，技术外溢与保密愿望可能同时存在。"
+    ],
+    "quote": "Guilds were cost sharing rather than price-fixing cartels.",
+    "translation": "行会是分担成本而非固定价格的卡特尔。",
+    "locator": "发表版p.688；课程合订PDF第7页，讨论训练成本及收益的分担。",
+    "quote_kind": "作者正文原句；理论解释，非无争议结论",
+    "use": "用于提出漫游为何可能有利于技能传播，再追问：利益来自迁移本身、行会担保，还是城市竞争？三者须分别举证。",
+    "limits": "针对制造业；论证受到后续研究挑战，不能证明强制漫游净福利。",
+    "verification_excerpt": "【上下文中文释义】作者认为正式工匠组织可以规范师徒行为，并分摊未明确归属的训练成本和收益，随后写道：“Guilds were cost sharing rather than price-fixing cartels.”"
+  },
+  {
+    "id": "C2",
+    "title": "Guilds, efficiency, and social capital: evidence from German proto-industry",
+    "author": "Sheilagh Ogilvie",
+    "year": "2004",
+    "source_url": "https://sheilaghogilvie.com/wp-content/uploads/publications/EcHR-2004-guilds.pdf",
+    "read_scope": "作者网站发表版PDF；核读摘要、导论和质量监管讨论pp.286–293，并核对材料范围。",
+    "summary": "文章利用德国符腾堡原工业地区的行会、法院及行政材料，检验行会是否有效解决质量、训练和创新问题。作者发现，这些组织确实产生共同规范、信息和制裁能力，但这些社会资本可能有利于内部成员、损害外部人；因此，广泛和长期存在并不等于经济有效。",
+    "points": [
+      "章程宣称保障质量不等于实际有效监管；必须观察执行、规避与纠纷，而不能只把规范条文当作制度绩效。",
+      "成员合作能加强排斥和政治游说，因此衡量社会资本应包括消费者、雇工及未入会生产者承担的外部成本。"
+    ],
+    "quote": "legislation is one thing and enforcement quite another.",
+    "translation": "立法是一回事，执行完全是另一回事。",
+    "locator": "p.293，质量标准讨论中以“Furthermore”起首的段落；PDF第9页。",
+    "quote_kind": "作者正文原句片段",
+    "use": "与Epstein对读，可把问题从是否传艺推进到谁获益、谁付费，以及漫游规定如何执行；尤其适合核查章程与实践落差。",
+    "limits": "地方原工业案例不能自动代表所有德国城市、行业或时期。",
+    "verification_excerpt": "【上下文中文释义】在指出质量话语可能为准入限制提供理由后，作者转向法规实际执行：“legislation is one thing and enforcement quite another.”下文区分从未执行和遭到不同程度规避的规定。"
+  },
+  {
+    "id": "C3",
+    "title": "The Economics of Guilds",
+    "author": "Sheilagh Ogilvie",
+    "year": "2014",
+    "source_url": "https://sheilaghogilvie.com/wp-content/uploads/publications/Ogilvie-2014-The-Economics-of-Guilds.pdf",
+    "read_scope": "作者网站发表版；核读pp.169–176及186–188的制度与增长讨论，查阅各主题结构。",
+    "summary": "这篇综述从竞争、履约、质量、人力资本和创新讨论欧洲行会的经济作用。作者承认某些行为可能带来公共收益，但总体解释着重于行会成员与政治精英交换特权和资源。文章把制度存续放入利益分配及集体行动问题，要求将内部收益与全社会代价同时考察。",
+    "points": [
+      "部分规则被违反不意味着制度毫无效力；被迫转入地下经营的人仍可能承担额外风险、费用和政治压力。",
+      "制度长期存在可以来自受益者集中、受损者分散的组织差异；存续时间本身并不能直接充当效率的证据。"
+    ],
+    "quote": "guilds tended to do what was best for guild members.",
+    "translation": "行会倾向于采取最有利于行会成员的行动。",
+    "locator": "p.174，“What Did Guilds Do?”节，作者评价既有证据的段落。",
+    "quote_kind": "作者正文原句片段；综述的解释立场",
+    "use": "为漫游制度增加政治经济学视角：谁能请求例外、控制工作机会并影响城市执法？帮工和师傅的实际利益应分别追踪。",
+    "limits": "综述立场有争议；不能把师傅行会的动机直接套给帮工兄弟会。",
+    "verification_excerpt": "【上下文中文释义】作者在概述学界分歧后说明自己的判断：“guilds tended to do what was best for guild members.”随后承认部分公共收益，并论述成员获利与外部成本。"
+  },
+  {
+    "id": "C4",
+    "title": "Guilds, Innovation, and the European Economy, 1400–1800",
+    "author": "S. R. Epstein、Maarten Prak 编",
+    "year": "2008",
+    "source_url": "https://api.pageplace.de/preview/DT0400.9780511380631_A23677862/preview-9780511380631_A23677862.pdf",
+    "read_scope": "合法公开试读：目录与编者导论重点pp.1–5；并非整部论文集或所有章节通读。",
+    "summary": "论文集汇集不同地区、行业的研究，重新讨论行会与技术和经济变化的关系。编者导论批评把行会统一视为僵化障碍的叙述，提出训练环境、生产协调和营销信息三个可能降低交易成本的环节。其研究纲领强调组织的适应性以及小幅、经验性的技术改进。",
+    "points": [
+      "编者把训练、生产和销售连接起来，认为只统计某项禁令容易遗漏行会在其他环节可能提供的协调作用。",
+      "许多前工业改进依靠日常经验与面对面学习，因而评价创新不应仅清点发明专利，也须追踪生产实践变化。"
+    ],
+    "quote": "guilds helped reduce transaction costs",
+    "translation": "行会有助于降低交易成本。",
+    "locator": "导论p.4，说明全书主张的段落；公开试读PDF第14页。",
+    "quote_kind": "编者导论原文片段；不是出版社书介",
+    "use": "提供可供验证的正面机制，与Ogilvie的排斥解释形成对读；应分别检查具体行业的训练、协调和质量信息证据。",
+    "limits": "此条概括导论纲领；各章的经验结论不宜视为完全一致。",
+    "verification_excerpt": "【上下文中文释义】导论说明全书尝试另一种行会经济史解释，提出“guilds helped reduce transaction costs”，随后列出训练、生产协调、营销三个环节。"
+  },
+  {
+    "id": "C5",
+    "title": "Access to the Trade: Monopoly and Mobility in European Craft Guilds in the Seventeenth and Eighteenth Centuries",
+    "author": "Maarten Prak、Clare Haru Crowston、Bert De Munck、Christopher Kissane、Chris Minns、Ruben Schalk、Patrick Wallis",
+    "year": "2020（2019在线）",
+    "source_url": "https://academic.oup.com/jsh/article/54/2/421/5644454",
+    "read_scope": "开放正文：摘要、测量与样本说明、亲属及移民结果、解释与时期限制部分；未复算数据。",
+    "summary": "文章汇集十七至十八世纪欧洲多城的师傅与学徒记录，以亲属关系和地理来源衡量行会开放程度。研究发现许多成员并非本地师傅之子，移民和无亲属联系的本地人相当常见；城市、行业之间差异明显，不能以封闭世袭的单一图景描述所有行会。",
+    "points": [
+      "入会记录显示开放并非只存在于英格兰或荷兰；德国及南欧也有开放案例，简单地域二分不足以解释差异。",
+      "开放程度与城市规模、人口和经济环境相关；作者也指出早期资料不足，不能把十七世纪结果直接上推。"
+    ],
+    "quote": "openness was much more common than closure, especially in larger centers.",
+    "translation": "开放远比封闭常见，尤其在较大的城市中心。",
+    "locator": "摘要末段；正式期刊首p.421，在线正文Abstract。",
+    "quote_kind": "作者摘要原文片段",
+    "use": "可检验漫游是否通向实际职业上升；还须追问未被录取者、申请费用及女性缺席，不能只由获准入会者推断公平。",
+    "limits": "集中1600–1800；录取构成不提供全部被拒者或社会净福利。",
+    "verification_excerpt": "【上下文中文释义】摘要先说明行会差异大、多数师傅及学徒是移民或无亲属联系的本地人，再总结：“openness was much more common than closure, especially in larger centers.”"
+  },
+  {
+    "id": "C6",
+    "title": "Thinking carefully about inclusiveness: evidence from European guilds",
+    "author": "Sheilagh Ogilvie",
+    "year": "2021（2020在线）",
+    "source_url": "https://sheilaghogilvie.com/wp-content/uploads/publications/Ogilvie-2021-Thinking-carefully-about-inclusiveness.pdf",
+    "read_scope": "作者网站发表版；核读摘要、导论、后部分析及结论pp.196–197。",
+    "summary": "文章借欧洲行会批判对包容性制度的笼统使用，区分组织内参与、组织的政治代表性和全社会参与。作者指出，内部参与扩大可能强化组织集体行动，却同时提高对外排斥能力；讨论制度是否包容，必须说明包含谁、进入什么，以及对未参与者有何影响。",
+    "points": [
+      "成员人数较多或有政治代表，不自动意味着全社会能够平等参与；组织边界以外的人可能承担更多限制。",
+      "包容与资源攫取并非逻辑反义词；分析既要观察成员收益，也要计入对市场、外部人及其他组织的影响。"
+    ],
+    "quote": "Inclusiveness and extractiveness are not opposites in theory",
+    "translation": "包容性与攫取性在理论上并非对立概念。",
+    "locator": "p.185，Abstract；PDF第1页。",
+    "quote_kind": "作者摘要原文片段",
+    "use": "适合继续追问：漫游互助包容了哪些工匠，却排除了哪些人？互助网络扩大时，对雇主和圈外工人的影响可能不同。",
+    "limits": "属于概念与制度论争；须另用当地档案证明具体漫游组织的行为。",
+    "verification_excerpt": "【上下文中文释义】摘要区分三种包容性及局部、整体影响后指出：“Inclusiveness and extractiveness are not opposites in theory”，继而解释行会为何可能同时具有两者。"
+  },
+  {
+    "id": "C7",
+    "title": "Apprenticeship in Early Modern Europe",
+    "author": "Maarten Prak、Patrick Wallis 编",
+    "year": "2019",
+    "source_url": "https://api.pageplace.de/preview/DT0400.9781108755733_A49236561/preview-9781108755733_A49236561.pdf",
+    "read_scope": "公开试读中的编者导论，重点pp.1–3、7–17及目录；未核读全书地区章节。",
+    "summary": "编者导论把欧洲学徒制同时视为技能传递方式和取得职业、公民权利的通道。它通过地区比较强调训练安排、契约、家庭和公共机构的不同作用，并提醒读者，学徒到帮工再到师傅的整齐阶梯并不等于多数人的实际经历，许多人生路径会中断、转换或分流。",
+    "points": [
+      "学习手艺和获得开业、城市身份等权利可能同时发生；同样长的学徒期，因此未必代表同样的训练内容。",
+      "契约执行及纠纷处理往往还依赖城市、国家或法院；学徒制与行会并存，并不证明训练完全由行会控制。"
+    ],
+    "quote": "a source of both skills and rights",
+    "translation": "既是技能的来源，也是权利的来源。",
+    "locator": "编者导论p.2，讨论十五至十八世纪学徒制双重性质的段落。",
+    "quote_kind": "编者导论原文片段；不是出版社书介",
+    "use": "可将Wanderjahre放入完整职业历程，分别检查学徒、受雇帮工和独立师傅的门槛；避免把旅行误当人人必经的晋升阶段。",
+    "limits": "此处主要概括导论；德国、英国等章节的具体差异须逐章核读。",
+    "verification_excerpt": "【上下文中文释义】导论讨论外来者通过学徒经历取得资格，并称学徒制具有双重性质，是“a source of both skills and rights”。"
+  },
+  {
+    "id": "C8",
+    "title": "Histoire／Premières traces",
+    "author": "Musée du Compagnonnage de Tours",
+    "year": "无日期",
+    "source_url": "https://www.museecompagnonnage.fr/le-compagnonnage/histoire/premieres-traces",
+    "read_scope": "博物馆Histoire与Premières traces机构网页正文；非所列中世纪档案原件。",
+    "summary": "博物馆以审慎措辞梳理法国伴工组织的早期线索，包括十五世纪鞋匠旅行的王令、勃艮第城市司法记录，以及可能表现工匠标识的图像。网页区分能够证明旅行、互助和组织活动的文献，与只能提出猜测的图像材料，没有把所有线索直接认定为后来伴工传统。",
+    "points": [
+      "早期记载主要经司法档案保存，受查禁或发生纠纷的活动因而较易可见，不能把记载频率直接当作普及率。",
+      "工匠组织、旅行和身份仪式需要分别核实；相似饰带或后来的解释，不能单独证明组织连续传承。"
+    ],
+    "quote": "La plupart des plus anciennes mentions de compagnons proviennent des archives judiciaires.",
+    "translation": "有关伴工最早的一批记载，大多来自司法档案。",
+    "locator": "Premières traces首段末句。",
+    "quote_kind": "博物馆机构历史说明原句；非十五世纪原始文献",
+    "use": "为德国与法语地区比较提供史料批判方法：为什么某类工匠被记录？观察到旅行、仪式和互助后，仍应分别寻找组织证据。",
+    "limits": "机构综合介绍；图像解释带有假说性质，需追索原档案。",
+    "verification_excerpt": "【上下文中文释义】首段先说只有借助文献才可证实旅行、互助和仪式团体，继而提醒：“La plupart des plus anciennes mentions de compagnons proviennent des archives judiciaires.”"
+  },
+  {
+    "id": "C9",
+    "title": "L’organisation des compagnons dans la Provence médiévale",
+    "author": "Philippe Bernardi",
+    "year": "2006",
+    "source_url": "https://www.persee.fr/doc/prohi_0033-1856_2006_num_56_226_1445?pageId=T3_363",
+    "read_scope": "本次稳定核读Persée原文p.361及363；其余页面未稳定获取，以下仅概括开篇问题与方法。",
+    "summary": "文章开篇检视伴工传统中的圣经及祖师起源叙事，指出把传说人物对应历史人物的尝试缺乏坚实根据。作者继而质疑以分散欧洲材料直接建立行会封闭与伴工组织兴起的因果关系，主张从普罗旺斯区域研究入手，并检查职业称谓在当地究竟表达何种关系。",
+    "points": [
+      "起源传说能够反映后人怎样理解组织身份，却不能未经文献核验，就被用作连续制度史的年代依据。",
+      "作者指出当地valet与compagnon不宜直接当同义词；名称的意义和出现时间需要在区域语境里查明。"
+    ],
+    "quote": "de partir d’une approche régionale du phénomène",
+    "translation": "从对这一现象的区域研究入手。",
+    "locator": "p.363首段，解释为何选择包含Comtat Venaissin的广义普罗旺斯。",
+    "quote_kind": "作者正文原文片段；方法主张",
+    "use": "提醒德国与法国比较先在城市、行业和档案用词层面校准；研究组织如何出现之前，应先确认同名身份是否可比。",
+    "limits": "未核读p.364–373，不据此转述全文经验发现或结论。",
+    "verification_excerpt": "【上下文中文释义】作者讨论有关行会封闭和伴工兴起的材料分散，认为应“de partir d’une approche régionale du phénomène”，以便为尚待完成的整体研究建立基础。"
+  },
+  {
+    "id": "C10",
+    "title": "Compagnonnage, network for on-the-job transmission of knowledge and identities",
+    "author": "UNESCO",
+    "year": "2010列入名录",
+    "source_url": "https://ich.unesco.org/en/decisions/5.COM/6.12",
+    "read_scope": "2010年政府间委员会决定5.COM 6.12第1–3项及名录介绍；未核读全部申报附件。",
+    "summary": "官方决定转述法国申报材料，将现代伴工制度描述为结合国内外旅行、入门仪式、课堂教学、惯习学习与技术训练的知识传承网络。说明还列出轮换城市、平均训练年限和作品评审，并把持续适应社会变化及共同体参与保护，作为列入非遗名录的理由。",
+    "points": [
+      "申报描述把个人成长和职业训练联系起来，旅行是教学组合的一部分，而不是单独、充分的学习机制。",
+      "名录肯定传统会随社会变化而重建；因此遗产认定强调延续与实践价值，并不等于证明每项规则古老不变。"
+    ],
+    "quote": "the development of the person and the training of the worker",
+    "translation": "个人的成长与劳动者的训练。",
+    "locator": "决定第1项所引制度描述末句；同见名录00441介绍末句。",
+    "quote_kind": "机构决定转述申报描述的原文片段；非历史学论证",
+    "use": "适合与现代德国Walz比较训练组合和身份塑造，再追问遗产叙事选择了哪些历史特征；不能用于重建1500年前后的年限。",
+    "limits": "反映2010申报叙事，平均年限和人数不应当成历代或今日恒值。",
+    "verification_excerpt": "【上下文中文释义】决定转述公众对伴工传统的认识，称其紧密结合“the development of the person and the training of the worker”；该句属于申报制度描述。"
+  },
+  {
+    "id": "C11",
+    "title": "Apprenticeship and Training in Premodern England",
+    "author": "Patrick Wallis",
+    "year": "2008（本次使用2007工作论文）",
+    "source_url": "https://www.lse.ac.uk/Economic-History/Assets/Documents/Research/FACTS/WorkingPapers/2007/2207Wallis.pdf",
+    "read_scope": "LSE Working Paper22/07：摘要、导论及印刷页26–32的制度讨论和结论；非正式期刊版页码。",
+    "summary": "文章以十七世纪伦敦较高的学徒提前离职率挑战僵硬契约图景。作者提出，训练与劳动、金钱偿付可以沿学徒期分散安排，使提前结束未必导致双方巨大损失。由此，学徒制仍能传递技能，而行会强制执行长期契约未必是它得以运作的必要条件。",
+    "points": [
+      "法定或契约年限不等于实际共处时长；离开师傅也未必意味着未学到技能，应区分完成资格与获得训练。",
+      "分阶段投入模型解释制度为何能够容纳退出，但作者也讨论行会限制人数、延长期限及偏向师傅的影响。"
+    ],
+    "quote": "neither master or apprentice risked significant loss from early termination.",
+    "translation": "师傅和学徒都不必因提前终止而冒重大损失的风险。",
+    "locator": "工作论文Abstract，PDF第3页；原文保留“neither…or”表述。",
+    "quote_kind": "作者摘要原文片段；工作论文版本",
+    "use": "为德国漫游提供契约比较：流动可能发生在学徒期内或结束后，必须分别观察；不能把所有离开师傅的人归入正式漫游。",
+    "limits": "主要依据伦敦；模型不是对每名学徒生活条件良好的保证。",
+    "verification_excerpt": "【上下文中文释义】摘要在说明提前结束普遍后，提出重新分配训练成本与偿付的模型，使“neither master or apprentice risked significant loss from early termination.”"
+  },
+  {
+    "id": "C12",
+    "title": "Apprenticeship in England",
+    "author": "Patrick Wallis",
+    "year": "2019",
+    "source_url": "https://researchonline.lse.ac.uk/id/eprint/102783/1/Wallis_apprenticeship_in_england_accepted.pdf",
+    "read_scope": "作者接受稿：法律框架pp.2–5、迁移及服务经历pp.21–26、结论开头；与正式书页247–281区分。",
+    "summary": "章节综合英格兰学徒制的法律框架、职业和地域分布、迁移及服务经验。它说明长期法定学徒期与灵活实践并存：发生冲突后，制度往往容许解除或转换契约。伦敦的公共机构在处理退出方面作用突出，但家庭资源及社会处境仍影响学徒能够怎样离开。",
+    "points": [
+      "全国性规定没有消除地区、行业及执行差异；至少七年的法定学徒期，不可直接当作人人实际受训时长。",
+      "公共法院容许退出能缓解师徒冲突，却没有令退出成本人人相等；资源不足者可能仍较难脱离不利关系。"
+    ],
+    "quote": "institutions favoured allowing exit over enforcement.",
+    "translation": "制度更倾向于容许退出，而非强制履约。",
+    "locator": "接受稿p.22，“Institutions and the experience of service”节第二段。",
+    "quote_kind": "作者正文原句片段；指十六至十八世纪英格兰",
+    "use": "可与德国的停留、转雇和漫游规制比较治理方式；重点是冲突如何解决、谁能退出，而非寻找英国版统一漫游制度。",
+    "limits": "引文为时期性概括，不能扩展为所有英格兰机构始终不强制履约。",
+    "verification_excerpt": "【上下文中文释义】作者对比十九世纪强力执行雇佣法规的情形，随后限定十六至十八世纪：“institutions favoured allowing exit over enforcement.”"
+  },
+  {
+    "id": "C14",
+    "title": "Guilds, Technology, and Economic Change in Early Modern Venice",
+    "author": "Francesca Trivellato",
+    "year": "2008",
+    "source_url": "https://albert.ias.edu/bitstream/handle/20.500.12111/7840/Trivellato_Guilds-Technology-Economic%20Change_2008.pdf",
+    "read_scope": "开放发表版扫描；核读pp.199–203、206、218、222及结论，重点丝织和玻璃产业。",
+    "summary": "章节用威尼斯丝织与玻璃产业考察行会为何接受某些变化、抵制另一些变化。作者主张同时拆分行会与技术两个概念：组织内部利益不一，创新也包括工具、产品和生产安排。国家保护、外国竞争与原料条件共同塑造选择，不能用行会保守一语解释产业变化。",
+    "points": [
+      "同城行会在劳动力构成及国家关系上存在差异；商人、熟练工及政府对同一项创新可能有不同判断。",
+      "招募外来技能与限制熟练工外流可以并存；区域内部扩散和跨境保密不是同一尺度上的同一种政策。"
+    ],
+    "quote": "we need to deconstruct both terms",
+    "translation": "我们需要拆解这两个概念。",
+    "locator": "p.200首部论述段；“both terms”指行会与技术。",
+    "quote_kind": "作者正文原文片段",
+    "use": "帮助追问漫游为何有时受鼓励、有时遭限制：应辨别谁掌握技能、谁希望招募或留住工人，以及知识流动跨越何种边界。",
+    "limits": "不少案例集中十七至十八世纪；不能都移入文艺复兴时期。",
+    "verification_excerpt": "【上下文中文释义】作者说要讨论行会与技术关系，“we need to deconstruct both terms”，随后分别列出组织关系及工具、工艺、产品、生产形式等差异。"
+  },
+  {
+    "id": "C15",
+    "title": "Apprenticeship, Work, Society in Early Modern Venice",
+    "author": "Anna Bellavitis、Valentina Sapienza 编",
+    "year": "2023",
+    "source_url": "https://api.pageplace.de/preview/DT0400.9781000839289_A44914413/preview-9781000839289_A44914413.pdf",
+    "read_scope": "公开试读中的编者Introduction，pp.1–4；已从出版社书介升级为导论原文，未阅读全文。",
+    "summary": "编者导论介绍以威尼斯旧司法机关登记的五万余份学徒契约为基础的跨学科研究，材料涵盖1575至1772年。全书把技能传递与劳动、家庭、政治及性别身份联系起来，并结合总体数据和个体经历，显示不同职业的入行规则、收费和师徒关系不能一概而论。",
+    "points": [
+      "契约可连接职业、地理来源和个人关系，让技能史与社会史共同发问；但登记文本并非训练过程的完整记录。",
+      "导论所介绍的章节突出职业差异，既有较少专门学徒规定的行业，也有优待师傅子嗣、排斥外来者的行业。"
+    ],
+    "quote": "Apprenticeship is a complex historical feature, having served many different purposes",
+    "translation": "学徒制是一种复杂的历史现象，曾服务于许多不同目的。",
+    "locator": "Introduction p.1首段；公开试读PDF第18页。",
+    "quote_kind": "编者导论原文片段；不是出版社宣传文案",
+    "use": "给德国研究提供材料组合范例：将旅行证书与学徒契约、家庭和雇佣记录相连，追问旅行之前的训练及资源差异。",
+    "limits": "此条依据导论对各章的说明；登记契约不覆盖全部非正式传艺。",
+    "verification_excerpt": "【上下文中文释义】导论首句写道：“Apprenticeship is a complex historical feature, having served many different purposes”，随后列举劳动、教育、技术及各种身份史研究。"
+  },
+  {
+    "id": "C16",
+    "title": "The Grand Tour",
+    "author": "Jean Sorabella",
+    "year": "2003",
+    "source_url": "https://www.metmuseum.org/essays/the-grand-tour",
+    "read_scope": "大都会艺术博物馆署名学术导读全文；未把配图作品说明当成旅行史原始证据。",
+    "summary": "导读将壮游置于十六世纪晚期以后青年贵族的古典教育及艺术消费之中，说明法国、意大利尤其罗马的吸引力。旅行者观看收藏、购买纪念品并赞助艺术家，归国后也影响建筑和审美趣味。高额费用与闲暇条件限制了参与群体，知识获取与精英身份塑造密切相连。",
+    "points": [
+      "旅行形成知识和品味，也依赖既有资源；谁能负担旅费、陪同者和闲暇，应作为比较旅行制度的基本问题。",
+      "壮游产生艺术赞助与收藏需求，知识流动常由消费推动；其资金和劳动关系与受雇工匠旅行有明显差异。"
+    ],
+    "quote": "Travel was arduous and costly throughout the period",
+    "translation": "在整个这一时期，旅行都艰辛且昂贵。",
+    "locator": "正文第2段首句，“The Objectives of the Grand Tour”标题之前。",
+    "quote_kind": "博物馆署名学术导读原文片段",
+    "use": "可比较旅行怎样赋予知识与身份，再追问学习成果由谁认可；时间上应突出晚十六世纪及以后，不能混成整个文艺复兴的经验。",
+    "limits": "概述以精英艺术旅行为主，不证明壮游与Wanderjahre存在起源联系。",
+    "verification_excerpt": "【上下文中文释义】开篇介绍晚十六世纪贵族教育旅行，第二段说明阶层条件：“Travel was arduous and costly throughout the period”，随后限定参与者主要是特权阶层。"
+  },
+  {
+    "id": "C19",
+    "title": "Maîtres et compagnons des corporations",
+    "author": "Musée du Compagnonnage de Tours",
+    "year": "无日期",
+    "source_url": "https://www.museecompagnonnage.fr/genealogie/presentation/maitres-compagnons-corporations",
+    "read_scope": "博物馆家谱研究指南正文三段及数据库范围说明；非具体个人的原档案。",
+    "summary": "这篇指南解释家谱和公证材料中师傅、帮工称谓的含义，提醒读者不要将职业身份直接解释成伴工团体成员。师傅通常表示自营工匠，帮工木匠通常表示受薪劳动者；两者过去可能参加过巡游和组织，也可能从未参加，必须寻找额外证据才能判断。",
+    "points": [
+      "职业称谓主要说明当时劳动关系及职业阶段，不能单独证明旅行经历，更不能直接证明某个兄弟会身份。",
+      "指南附带的姓名数据库并不覆盖所有年代、行业和组织；未检得某人，只能说明现有索引中尚未发现。"
+    ],
+    "quote": "Cela signifie simplement qu’il s’agit d’un charpentier salarié, d’un ouvrier charpentier.",
+    "translation": "这仅表示他是一名受薪木匠、一名木工劳动者。",
+    "locator": "正文第2段，第2句；解释“compagnon charpentier”。",
+    "quote_kind": "博物馆档案检索指南原句；非旧制度时期原文",
+    "use": "可直接转化为德国研究的编码规则：将职业等级、实际旅行和团体会员身份设为不同字段，避免由Geselle一词推定漫游。",
+    "limits": "法国术语指南只能提示方法；德语称谓含义仍须当地史料核查。",
+    "verification_excerpt": "【上下文中文释义】指南先提到档案中的帮工木匠称谓，再解释：“Cela signifie simplement qu’il s’agit d’un charpentier salarié, d’un ouvrier charpentier.”后文明确该词不自动表示巡游组织成员。"
+  }
+]

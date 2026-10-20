@@ -1,0 +1,750 @@
+[
+  {
+    "id": "H1",
+    "author": "Markus Gneiß",
+    "year": "2017",
+    "title": "Das Wiener Handwerksordnungsbuch (1364–1555). Edition und Kommentar",
+    "url": "https://e-book.fwf.ac.at/api/object/o:1123/get",
+    "group": "史料与档案",
+    "access": "开放全文PDF，672页，CC BY 4.0；包含一手条例校勘本",
+    "note": "维也纳学徒、帮工、师傅制度及条例原文；1443鞋匠条例Nr.84（235–236页）证明被迫离城旅行可服务于雇主之间劳力分配；1481打金箔条例Nr.153 art.1（正文p76概述）要求结业后留原师傅处有薪工作两年。 注意：城市和工种具体个案；条例显示规范目标，不能直接计算实际执行率。现代研究正文总摘要勿过长；一手条例历史文本可独立释读。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H2",
+    "author": "Knut Schulz (ed.)",
+    "year": "1999",
+    "title": "Handwerk in Europa. Vom Spätmittelalter bis zur Frühen Neuzeit",
+    "url": "https://www.degruyterbrill.com/document/doi/10.1524/9783486594423/html",
+    "group": "机制与社会史",
+    "access": "出版社整书及章节标注 Publicly Available，PDF下载按钮；本次自动抓取PDF失败，目录与元数据已核查",
+    "note": "将迁移放进行会、兄弟会、技术、宗教、城市/领主干预及跨欧亚比较的共同框架。特别推荐Elkar（213–232）、Reininghaus（195–212）、Schuchard（1–26）、Esch（27–32）、Irsigler（255–276）、Faroqhi（277–296）。 注意：目前核对目录，不把所有章节详细论断当作已读全文。旧官网PDF链接在本次访问返回404。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H3",
+    "author": "Markus Gneiß",
+    "year": "2014",
+    "title": "Die Gesellenordnungen des spätmittelalterlichen Wiener Handwerksordnungsbuches: Analyse und Edition",
+    "url": "https://utheses.univie.ac.at/detail/30380",
+    "group": "史料与档案",
+    "access": "大学仓储摘要＋全文入口；219页硕士论文",
+    "note": "维也纳1410年代起劳动时间/休假/副业冲突；1439总条例、1442独立兄弟会条例；会费与罚款资助病者贷款、葬礼、宗教服务，旅舍兼社会中心。 注意：2017专著是扩充版，优先引H1；摘要提及通常短期停留不能泛推所有帮工。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H6",
+    "author": "Augustin Güntzer；German Historical Institute Washington 编介",
+    "year": "1615 travel / c.1657 memoir",
+    "title": "Kleines Biechlin von meinem gantzen Leben – Mein Reißbiechlin (17. Jahrhundert)",
+    "url": "https://germanhistory-intersections.org/de/migration/ghis:document-46",
+    "group": "史料与档案",
+    "access": "开放一手自传节选＋德文导读",
+    "note": "1615出发父亲提供皮衣、必需品、12fl.，本人另积12fl.；路线受军事暴力影响，结伴、武器与路途风险并存。适合问谁付旅行成本、自由选择究竟多大。 注意：回忆写作、神意获救叙事与强盗母题，不能直接变成犯罪发生率；该页面引2012版，而DHM引2002初版。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H7",
+    "author": "Philipp Meisner / Universität Gießen, GiesKaNe project",
+    "year": "2023",
+    "title": "Die Reisen des Kannengießers Güntzer",
+    "url": "https://www.uni-giessen.de/de/fbz/fb05/germanistik/forschung/sprache/gieskane/blog/guentzers-reisen",
+    "group": "机制与社会史",
+    "access": "大学研究项目文章全文",
+    "note": "以1657自传的旅行部分和语料项目为入口，展示旅行欲望、手工业与宗教自我书写。 注意：项目文章适合导览；具体史实仍回到自传版与档案。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H8",
+    "author": "Hans Sachs；GHDI/German Historical Institute Washington",
+    "year": "1513 source",
+    "title": "Hans Sachs, Silberweise (1513)",
+    "url": "https://germanhistorydocs.org/de/von-den-reformationen-bis-zum-dreissigjaehrigen-krieg-1500-1648/hans-sachs-silberweise-1513",
+    "group": "史料与档案",
+    "access": "史料导读＋音乐材料",
+    "note": "纽伦堡鞋匠与Meistersinger身份交叉；流动接触的知识可以是音乐/文学，不能只测生产工艺。 注意：Meistersang的Meister与手工业师傅资格不可混为一谈；单一名人不是普通帮工代表。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H9",
+    "author": "FU Berlin / Selbstzeugnisse im deutschsprachigen Raum",
+    "year": "database, accessed 2026-10-07",
+    "title": "Thomas Platter",
+    "url": "https://www.geschkult.fu-berlin.de/e/jancke-quellenkunde/verzeichnis/p/tplatter/index.html",
+    "group": "史料与档案",
+    "access": "学术自我见证资料库，传记、手稿与版本目录",
+    "note": "Platter兼牧童、流浪学生、绳匠、教师、印刷商、人文主义者；适合比较流动生涯如何跨越现代职业分类。 注意：其求学游历不能全部叫作帮工Wanderjahre；自传存世有识字/成功者偏差。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H10",
+    "author": "Edgar Bonjour / Historisches Lexikon der Schweiz",
+    "year": "2010 version",
+    "title": "Platter, Thomas",
+    "url": "https://hls-dhs-dss.ch/de/articles/010787/2010-09-28/",
+    "group": "史料与档案",
+    "access": "学术百科全文",
+    "note": "绳匠训练、拉丁/希腊语学习、宗教改革与职业转换；1572为儿子Felix写自传。 注意：传记背景，非行会条例；不要把晚年叙述等同即时日记。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H11",
+    "author": "Wilfried Reininghaus",
+    "year": "1981",
+    "title": "Die Entstehung der Gesellengilden im Spätmittelalter",
+    "url": "https://iucat.iu.edu/iub/1648076",
+    "group": "机制与社会史",
+    "access": "大学图书馆书目，x+361页；非全文",
+    "note": "晚期中世纪帮工组织形成的经典专著，VSWG Beiheft71；可沿283–354页参考文献追踪地域研究。 注意：本次核对书目信息，不以未读正文承载具体争议。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H12",
+    "author": "Markus Römer",
+    "year": "2024",
+    "title": "Wandergesellen auf der Walz – Vergangenheitsrelikt oder Hochschule des Handwerks?",
+    "url": "https://www.zdh.de/fileadmin/Oeffentlich/Gewerbefoerderung/Gewerbefoerderung_neu/Kultur/Dissertationsschrift_Wandergesellen_auf_der_Walz_-_Markus_Roemer.pdf",
+    "group": "现代传统",
+    "access": "开放博士论文全文PDF；2024-02-07获接受",
+    "note": "第I部历史综述（14–63页）；35页起教育价值争论；当代田野资料用于把现代Walz规则与历史规范分开。 注意：核心为当代民族志，历史段多据二手文献；勿把当代服装、3年1天、50km、身份条件直接倒推文艺复兴。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H13",
+    "author": "Christine Heider / Archives de la Région Alsace",
+    "year": "2008",
+    "title": "Fonds de Turckheim-Truttenhausen, Sous-série 4 J. Répertoire numérique détaillé",
+    "url": "https://www.grandest.fr/wp-content/uploads/2017/08/inventaire-fonds-de-turckheim.pdf",
+    "group": "史料与档案",
+    "access": "官方档案详细目录PDF，p79，4J145–146；档案摘要，非原件影像",
+    "note": "1436-04-30斯特拉斯堡城市代表会议的Rheinische Knechtsordnung：禁止帮工结盟、维持独立饮酒会馆、携刀；向师傅和城市当局宣誓；葬礼不得占用工作日。 注意：目录提示原件未写年份，依据其他传本校定1436；Schanz旧版误作1465。禁令存在不能证明结盟已被消灭。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H14",
+    "author": "Knut Schulz",
+    "year": "2008 (online 2014)",
+    "title": "Zünfte am Oberrhein im Spätmittelalter. Selbstdarstellung und Ausstrahlungen",
+    "url": "https://journals.ub.uni-heidelberg.de/index.php/vuf/article/view/16958",
+    "group": "机制与社会史",
+    "access": "大学期刊平台全文PDF入口；元数据已核，自动抓取PDF遇验证",
+    "note": "上莱茵城市群行会与帮工区域联系研究，含1436条例相关地域图。 注意：未通读全文；可以书目拓展，不依赖其未核细节。",
+    "locator": "",
+    "extra": [
+      [
+        "DOI",
+        "https://doi.org/10.11588/vuf.2008.0.16958"
+      ]
+    ]
+  },
+  {
+    "id": "H15",
+    "author": "Reinhold Reith",
+    "year": "2014",
+    "title": "Arcana artis? Wissens- und Technologietransfer im frühneuzeitlichen Handwerk",
+    "url": "https://www.eisenbibliothek.ch/en/publications/ferrum/all-issues/86-2014.html",
+    "group": "史学争论",
+    "access": "出版机构德英摘要＋E-Periodica整期扫描入口；Ferrum86,25–34",
+    "note": "直接呈现技艺保密/受限劳动市场的怀疑论与强调实际工作、生活经验/技能获得的解释；支持把创新和经验积累分开。 注意：主要例证含18–19世纪Johann Conrad Fischer，不能直接替代15–16世纪证据；官方目录将作者误写Reinold，书目应Reinhold。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "H16",
+    "author": "Rainer S. Elkar",
+    "year": "2022",
+    "title": "Eine gescheiterte Existenz? Leben und Leiden eines Reutlinger Goldschmieds in der Heimat und in der Fremde",
+    "url": "https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/173888/RGB_Ausgabe_2022_Online.pdf?isAllowed=y&sequence=1",
+    "group": "史学争论",
+    "access": "大学仓储整期开放全文；Reutlinger Geschichtsblätter,89–148；关键印刷101页注30（PDF第102页）",
+    "note": "Elkar本人澄清：他没有否认迁移可能传知识，问题在帮工是否能带走雇主具有竞争优势的创新，现有自我见证证据较少。 注意：案例是19世纪Otto Baur，应标为后期比较和方法论，不混入文艺复兴事实。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "R1",
+    "author": "Josef Ehmer",
+    "year": "2008",
+    "title": "Rural Guilds and Urban–Rural Guild Relations in Early Modern Central Europe",
+    "url": "https://www.cambridge.org/core/journals/international-review-of-social-history/article/rural-guilds-and-urbanrural-guild-relations-in-early-modern-central-europe/5C27A4314BF1CBBE77A79356518C6267",
+    "group": "机制与社会史",
+    "access": "开放正文",
+    "note": "从城乡联系理解行会；反对把工匠史缩成城市史。晚16世纪以后区域行会尤其重要；其1837年维也纳地图不能当成1500年的迁移数据。",
+    "locator": "International Review of Social History 53, S16, pp.143–158；“Spatial structures”“Social and economic consequences”",
+    "extra": []
+  },
+  {
+    "id": "R2",
+    "author": "Piet Groot & Ruben Schalk",
+    "year": "2022",
+    "title": "Journeymen Migration and Settlement in Eighteenth-century Holland",
+    "url": "https://research-portal.uu.nl/en/publications/journeymen-migration-and-settlement-in-eighteenth-century-holland/",
+    "group": "时空比较",
+    "access": "开放全文；已核读摘要及第4节",
+    "note": "按职业、婚姻、技能与城市政策分析迁移和定居；本页用于后期对照，不回推文艺复兴。",
+    "locator": "Continuity and Change 37(2), pp.199–232；第4节",
+    "extra": [
+      [
+        "开放 PDF",
+        "https://dspace.library.uu.nl/bitstream/handle/1874/423590/journeymen_migration_and_settlement_in_eighteenth_century_holland.pdf?isAllowed=y&sequence=1"
+      ],
+      [
+        "项目与数据说明",
+        "https://scoop-db.wp.hum.uu.nl/study/journeymen-migration-and-settlement-in-eighteenth-century-holland/"
+      ]
+    ]
+  },
+  {
+    "id": "R3",
+    "author": "Reinhold Reith",
+    "year": "2008",
+    "title": "Circulation of Skilled Labour in Late Medieval and Early Modern Central Europe",
+    "url": "https://www.cambridge.org/core/books/abs/guilds-innovation-and-the-european-economy-14001800/circulation-of-skilled-labour-in-late-medieval-and-early-modern-central-europe/DA5C01DF719861BFA93414E2970F620F",
+    "group": "机制与社会史",
+    "access": "摘要与书目",
+    "note": "针对“前工业社会静止”的现代化叙事，提出熟练劳动流通问题；本轮只核读公开摘要，不将全章结论伪作已读。",
+    "locator": "载 Epstein & Prak 编 Guilds, Innovation and the European Economy, 1400–1800, pp.114–142；DOI 10.1017/CBO9780511496738.005",
+    "extra": []
+  },
+  {
+    "id": "R4",
+    "author": "Deutsches Historisches Museum",
+    "year": "2005展览档案",
+    "title": "Wandernde Handwerksgesellen und Gesinde",
+    "url": "https://www.dhm.de/archiv/ausstellungen/zuwanderungsland-deutschland/migrationen/rooms/0108.htm",
+    "group": "史料与档案",
+    "access": "机构全文",
+    "note": "展示Güntzer自传及1773年Kundschaft；适于入门，但“16世纪成为义务”的概括须用当地条例细化，不能作为全德统一法律。",
+    "locator": "“Migrationen 1500–2005”展厅；Güntzer编辑本摘录pp.125–152",
+    "extra": []
+  },
+  {
+    "id": "R5",
+    "author": "Deutsches Historisches Museum",
+    "year": "2005展览档案",
+    "title": "Die Ausgrenzung nicht sesshafter Menschen",
+    "url": "https://www.dhm.de/archiv/ausstellungen/zuwanderungsland-deutschland/migrationen/rooms/0109.htm",
+    "group": "机制与社会史",
+    "access": "机构全文",
+    "note": "将受承认的工匠旅行与对不定居人口的排斥并读，追问谁有权移动。",
+    "locator": "与帮工迁移展厅相邻的专题",
+    "extra": []
+  },
+  {
+    "id": "R6",
+    "author": "Albrecht Dürer；Ernst Heidrich（编）",
+    "year": "1524等原文／1920版",
+    "title": "Albrecht Dürers schriftlicher Nachlass",
+    "url": "https://digi.ub.uni-heidelberg.de/diglit/duerer1920",
+    "group": "史料与档案",
+    "access": "数字化全文入口；本次直访受验证限制",
+    "note": "包括家庭纪事、尼德兰旅行日记和书信。本轮仅从检索索引核对目录，未逐页阅读；作为回到自我记述的入口。",
+    "locator": "Familienchronik pp.7–15；Tagebuch pp.24–118；Briefe pp.119–188；DOI 10.11588/diglit.29135",
+    "extra": []
+  },
+  {
+    "id": "R7",
+    "author": "Stephan R. Epstein",
+    "year": "2004",
+    "title": "Labour mobility, journeyman organisations and markets in skilled labour in Europe, 14th–18th centuries",
+    "url": "https://www.persee.fr/doc/efr_0223-5099_2004_act_325_1_7649",
+    "group": "史学争论",
+    "access": "开放扫描与分页面文本",
+    "note": "直接讨论帮工组织、劳动市场与技术传播。已核读开篇与元数据；关注临时流动难被定居统计捕捉的问题，全文值得优先精读。",
+    "locator": "载 Le technicien dans la cité en Europe occidentale, 1250–1650, pp.251–269",
+    "extra": []
+  },
+  {
+    "id": "A1",
+    "author": "Jacob Wisse",
+    "year": "2002",
+    "title": "Albrecht Dürer (1471–1528)",
+    "url": "https://www.metmuseum.org/de/essays/albrecht-durer-1471-1528",
+    "group": "艺术与印刷",
+    "access": "博物馆文章全文；已读相关正文",
+    "note": "可连接纽伦堡金匠与Wolgemut书籍木刻工坊、版画传播、1506威尼斯德国商人委托。此文沿用1494–1495首次意大利旅行叙述；不能独立证明该行程，也不能把艺术家后期职业旅行一律叫作Gesellenwanderung。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A2",
+    "author": "National Gallery, London",
+    "year": "2021–2022",
+    "title": "Dürer’s Journeys: Travels of a Renaissance Artist",
+    "url": "https://www.nationalgallery.org.uk/exhibitions/past/durers-journeys-travels-of-a-renaissance-artist",
+    "group": "艺术与印刷",
+    "access": "展览介绍全文；已读",
+    "note": "展览将阿尔卑斯、意大利、尼德兰行旅并置，附作品与专题资源。作品说明明确沿用1494–1495和1505–1507两次威尼斯旅行；可与Luber的质疑并置，说明博物馆叙述与学术争论未完全统一。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A3",
+    "author": "Susan Foister",
+    "year": "2024",
+    "title": "Saint Jerome, in The German Paintings before 1800",
+    "url": "https://www.nationalgallery.org.uk/paintings/catalogues/foister-2024/saint-jerome",
+    "group": "艺术与印刷",
+    "access": "学术藏品目录全文；已读相关章节与注释",
+    "note": "在图像学段落确认1492巴塞尔《圣杰罗姆书信》卷首木刻这一节点；详细列出《圣杰罗姆》归属、断代、材料及Luber质疑。说明风格、木材和技术检测各自证据边界，不能把意大利风格直接等同作者已亲自旅行。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A4",
+    "author": "Katherine Crawford Luber",
+    "year": "2005",
+    "title": "Albrecht Dürer and the Venetian Renaissance",
+    "url": "https://assets.cambridge.org/97805215/62881/frontmatter/9780521562881_frontmatter.pdf",
+    "group": "艺术与印刷",
+    "access": "出版社前置页及目录PDF；未读全书",
+    "note": "Cambridge University Press，268页，ISBN 0-521-56288-0。关键研究书，第二章讨论首次意大利行。此链接只核实书目信息；关于作者否定1494/95之行的论证概况来自下列Stewart书评，不冒充已读原章。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A5",
+    "author": "Alison Stewart",
+    "year": "2006",
+    "title": "Review: Albrecht Dürer and the Venetian Renaissance",
+    "url": "https://hnanews.org/hnar/reviews/albrecht-durer-venetian-renaissance/",
+    "group": "艺术与印刷",
+    "access": "专业学会书评全文；已读",
+    "note": "介绍Luber对首次意大利行的质疑：作品归属、风景水彩断代、书信解释以及19世纪传记构造均需重审；意大利版画可以先于本人跨境。书评赞同Luber，不能作为学界已达共识的证据。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A6",
+    "author": "Germanisches Nationalmuseum",
+    "year": "项目2009–2011；总结展览2012",
+    "title": "Der frühe Dürer: Historiografische Modelle für ein erweitertes Verständnis von Albrecht Dürers Frühwerk",
+    "url": "https://www.gnm.de/forschung/archiv/der-fruehe-duerer/",
+    "group": "艺术与印刷",
+    "access": "研究项目说明全文；已读",
+    "note": "直接提出艺术家流动处于教育理想与经济压力之间，并警惕作品与传记互相证明的循环论证。适合作为批判性框架：从纽伦堡社会关系和经济环境解释创新，避免天才远游神话。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A7",
+    "author": "Daniel Hess、Thomas Eser（编）",
+    "year": "2012",
+    "title": "Der frühe Dürer",
+    "url": "https://onlineshop.gnm.de/de/publikationen/ausstellungskataloge/der-fruehe-duerer",
+    "group": "艺术与印刷",
+    "access": "博物馆书目与内容简介；未读全书",
+    "note": "GNM展览目录，604页、18篇论文，ISBN 978-3-936688-59-7；强调社会环境与现代艺术家概念的形成。可用于后续精读；Beate Böckem有关早期Dürer与意大利的篇章为进一步检索线索，不应凭此商品页概括其具体论证。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A8",
+    "author": "Kunstmuseum Basel",
+    "year": "网页未注明；访问2026",
+    "title": "Old Masters — Room 5: Hans Holbein the Younger in Basel",
+    "url": "https://kunstmuseumbasel.ch/en/collection/alte-meister",
+    "group": "艺术与印刷",
+    "access": "博物馆展陈说明全文；已读相关段落",
+    "note": "1515年Hans与Ambrosius Holbein到巴塞尔，在Hans Herbst工坊工作，后来加入Zum Himmel行会；联系Erasmus人文主义圈。适合作为跨工坊学习与人际引荐的例子，不是所有艺术家都遵守统一强制行程的证据。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A9",
+    "author": "Museo Nacional Thyssen-Bornemisza",
+    "year": "网页未注明；访问2026",
+    "title": "Hans Holbein the Younger",
+    "url": "https://www.museothyssen.org/en/collection/artists/holbein-hans-joven",
+    "group": "艺术与印刷",
+    "access": "博物馆传记全文；已读",
+    "note": "1515巴塞尔插图工作；1517–1519卢塞恩；1519巴塞尔入会、1520市民权；1526持Erasmus介绍信赴英；改革时期巴塞尔委托减少，1532回伦敦。展示年轻工匠学习、取得本地身份与成熟艺术家求职迁移三种不同流动。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A10",
+    "author": "Clare Crowston",
+    "year": "2008",
+    "title": "Women, Gender, and Guilds in Early Modern Europe: An Overview of Recent Research",
+    "url": "https://www.cambridge.org/core/journals/international-review-of-social-history/article/women-gender-and-guilds-in-early-modern-europe-an-overview-of-recent-research/8DD0903AB406FDC4778EC779182053EA",
+    "group": "机制与社会史",
+    "access": "开放HTML全文；已读性别、衰落论与实际劳动章节",
+    "note": "International Review of Social History 53(S16),19–44，doi:10.1017/S0020859008003593。比较排除论与修正研究：成文禁令不等于女性没有工作或没有训练；行会成员资格、家庭参与、工资劳动须分开。法国案例不能直接推翻德国地方证据。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A11",
+    "author": "Merry E. Wiesner",
+    "year": "1991",
+    "title": "Wandervogels and Women: Journeymen’s Concepts of Masculinity in Early Modern Germany",
+    "url": "https://academic.oup.com/jsh/article-abstract/24/4/767/1026705",
+    "group": "机制与社会史",
+    "access": "出版社书目及首页预览；未读全文",
+    "note": "Journal of Social History 24(4),767–782，doi:10.1353/jsh/24.4.767。核心精读线索；男性身份与对女性排斥的论点概况已由Crowston综述核实。标题中的Wandervogels勿误认为19世纪末Wandervogel青年运动。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A12",
+    "author": "Maria R. Boes",
+    "year": "2003（网络发表2004）",
+    "title": "‘Dishonourable’ youth, guilds, and the changed world view of sex, illegitimacy, and women in late-sixteenth-century Germany",
+    "url": "https://www.cambridge.org/core/journals/continuity-and-change/article/abs/dishonourable-youth-guilds-and-the-changed-world-view-of-sex-illegitimacy-and-women-in-latesixteenthcentury-germany/B779B17C0827B608D80E77A0B01555E3",
+    "group": "机制与社会史",
+    "access": "摘要与书目信息；未读全文",
+    "note": "Continuity and Change 18(3),345–372，doi:10.1017/S0268416003004697。摘要明确研究16世纪后期行会排斥非婚生者和女性及其长期影响。只能据摘要限定研究议题，不能据此声称所有德国行会同年采取相同政策。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A13",
+    "author": "Deutsche UNESCO-Kommission",
+    "year": "名录列入2014；网页访问2026",
+    "title": "Handwerksgesellenwanderschaft Walz",
+    "url": "https://www.unesco.de/staette/handwerksgesellenwanderschaft-walz/",
+    "group": "现代传统",
+    "access": "当代遗产机构说明全文；已读",
+    "note": "现今Walz与德国2014全国非遗名录；五个现存Schächte形成于1890/91–1910，1970/80年代另两团体接纳女性。现代常见年龄、未婚、无债、50公里限制是当代介绍，不能倒灌到1500年。不是UNESCO世界非遗代表作名录条目。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A14",
+    "author": "Johannes Glückler、Regina Lenz",
+    "year": "2018",
+    "title": "Drift and Morphosis in Institutional Change: Evidence from the ‘Walz’ and Public Tendering in Germany",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-75328-7_6",
+    "group": "现代传统",
+    "access": "开放章节HTML/PDF；已读Walz部分及参考文献",
+    "note": "载Knowledge and Institutions，doi:10.1007/978-3-319-75328-7_6。区分制度形式延续与功能变化，追溯义务、劳动力调节、职业学校和遗产意义。其长时段概要需要地方材料校正；当代访谈及两三年一天、手机禁令等描述不得一概用于文艺复兴。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A15",
+    "author": "Hans Jantzen",
+    "year": "1959",
+    "title": "Dürer, Albrecht, Neue Deutsche Biographie 4, 164–169",
+    "url": "https://www.deutsche-biographie.de/gnd11852786X.html#ndbcontent",
+    "group": "艺术与印刷",
+    "access": "学术人物辞典全文；已读早期生涯段落",
+    "note": "记载1524家庭纪事所述1490复活节后出发、1494圣灵降临节后回乡；指出纪事未列路线，并以巴塞尔1492圣杰罗姆木版署名等物证重建上莱茵节点。旧研究需结合A4–A6更新，勿与同页1877年ADB文章混同。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A16",
+    "author": "Library of Congress",
+    "year": "网页未注明；访问2026",
+    "title": "Heavenly Craft: The Woodcut in Early Printed Books — Fifteenth Century",
+    "url": "https://loc.gov/exhibits/heavenlycraft/heavenly-15th.html#obj26",
+    "group": "艺术与印刷",
+    "access": "图书馆展览全文及馆藏图像；已读Basel段落",
+    "note": "连接巴塞尔Richel、Kesler、Furter、Bergmann印刷生产网络，谨慎用reputed/attributed描述Dürer木刻归属；横向比较纽伦堡、巴塞尔、佛罗伦萨、巴黎的书籍木刻。可直接查看馆藏书页图像，图像复制请另核授权。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "A17",
+    "author": "Albrecht Dürer；Staatsbibliothek Bamberg藏、Heidelberg数字化",
+    "year": "原文1524；此抄本17世纪后半",
+    "title": "Familienchronik Albrecht Dürers in einer Abschrift, JH.Msc.Art.50",
+    "url": "https://doi.org/10.11588/diglit.36633",
+    "group": "史料与档案",
+    "access": "数字手稿入口；本次仅检索索引元数据，直接访问受反爬限制，未读手稿",
+    "note": "重要一手材料传本，注意区分1524文本与17世纪后半抄本年代；不可标注为丢勒1524亲笔原件。页级记录https://digi.ub.uni-heidelberg.de/diglit/sbbam_jhmscart50/0060。",
+    "locator": "",
+    "extra": []
+  },
+  {
+    "id": "C1",
+    "author": "S. R. Epstein",
+    "year": "1998",
+    "title": "Craft Guilds, Apprenticeship, and Technological Change in Preindustrial Europe",
+    "url": "https://doi.org/10.1017/S0022050700021124",
+    "group": "史学争论",
+    "access": "出版社摘要与参考文献公开；全文通常需订阅",
+    "note": "主张行会通过学徒制提供可转移技能，维持跨地区熟练劳动力市场，并由工匠迁移促进技术扩散。 注意：这是有争议的解释，不是已被全体史家接受的结论；不能从技能随人移动，直接推出强制漫游净增社会福利。",
+    "locator": "The Journal of Economic History 58(3): 684–713",
+    "extra": []
+  },
+  {
+    "id": "C2",
+    "author": "Sheilagh Ogilvie",
+    "year": "2004",
+    "title": "Guilds, efficiency, and social capital: evidence from German proto-industry",
+    "url": "https://doi.org/10.1111/j.1468-0289.2004.00279.x",
+    "group": "史学争论",
+    "access": "出版社摘要公开；全文通常需订阅",
+    "note": "德国原工业地区证据不支持把行会一概理解为质量、训练、创新问题的有效解；成员间的社会资本也能用于排斥外部人。 注意：地方原工业材料不能自动代表所有城市、行业与时期。",
+    "locator": "The Economic History Review 57(2): 286–333",
+    "extra": []
+  },
+  {
+    "id": "C3",
+    "author": "Sheilagh Ogilvie",
+    "year": "2014",
+    "title": "The Economics of Guilds",
+    "url": "https://www.repository.cam.ac.uk/items/3e66b873-fe92-4ea1-a3aa-fa6f03d2a84b",
+    "group": "史学争论",
+    "access": "剑桥大学知识库开放作者接受稿",
+    "note": "行会与政治精英可能交换特权、租金及执行支持；制度长期存在不足以证明社会效率。 注意：区分作者论点与个别城市的经验结论；师傅行会和帮工兄弟会的利益不应混同。",
+    "locator": "Journal of Economic Perspectives 28(4): 169–192",
+    "extra": [
+      [
+        "DOI",
+        "https://doi.org/10.1257/jep.28.4.169"
+      ]
+    ]
+  },
+  {
+    "id": "C4",
+    "author": "S. R. Epstein、Maarten Prak 编",
+    "year": "2008",
+    "title": "Guilds, Innovation, and the European Economy, 1400–1800",
+    "url": "https://assets.cambridge.org/97805218/87175/frontmatter/9780521887175_frontmatter.htm",
+    "group": "史学争论",
+    "access": "出版社书目信息、目录及导论节选公开；全书通常需订阅",
+    "note": "跨行业、跨地区重评行会与创新。关键章：Reith论熟练劳动力流动；Trivellato论威尼斯；Prak论荷兰画家；Gadd与Wallis论伦敦。 注意：论文集不是单一模型的证明。应比较同一行业、地方权力结构和不同创新类型。",
+    "locator": "Cambridge University Press",
+    "extra": [
+      [
+        "补充入口",
+        "https://assets.cambridge.org/97805218/87175/excerpt/9780521887175_excerpt.pdf"
+      ]
+    ]
+  },
+  {
+    "id": "C5",
+    "author": "Maarten Prak、Clare Haru Crowston、Bert De Munck、Christopher Kissane、Chris Minns、Ruben Schalk、Patrick Wallis",
+    "year": "2020（2019在线）",
+    "title": "Access to the Trade: Monopoly and Mobility in European Craft Guilds in the Seventeenth and Eighteenth Centuries",
+    "url": "https://academic.oup.com/jsh/article/54/2/421/5644454",
+    "group": "史学争论",
+    "access": "开放全文",
+    "note": "27城逾10万师傅及21城45万学徒记录显示，许多行会接纳大量非师傅子嗣与移民，行业和城市差异很大。 注意：样本集中1600–1800；作者明确1500年代以前数据不足，男性流入也不能推翻女性与其他群体的排斥。入会者构成不能单独识别申请失败者、成本与净福利。",
+    "locator": "Journal of Social History 54(2): 421–452",
+    "extra": [
+      [
+        "DOI",
+        "https://doi.org/10.1093/jsh/shz070"
+      ]
+    ]
+  },
+  {
+    "id": "C6",
+    "author": "Sheilagh Ogilvie",
+    "year": "2021（2020在线）",
+    "title": "Thinking carefully about inclusiveness: evidence from European guilds",
+    "url": "https://doi.org/10.1017/S1744137420000508",
+    "group": "史学争论",
+    "access": "出版社摘要公开；全文通常需订阅",
+    "note": "区分共同体内部参与、团体的政治代表性与全社会的经济政治参与；某组织内部包容，可以和对社会的排斥并存。 注意：适合提出检验问题，不宜当作每个漫游制度的实证结论。",
+    "locator": "Journal of Institutional Economics 17(2): 185–200",
+    "extra": []
+  },
+  {
+    "id": "C7",
+    "author": "Maarten Prak、Patrick Wallis 编",
+    "year": "2019",
+    "title": "Apprenticeship in Early Modern Europe",
+    "url": "https://www.cambridge.org/core/books/apprenticeship-in-early-modern-europe/FFAA5347F5D134F9910814C7C85B4E77",
+    "group": "时空比较",
+    "access": "书目、目录与章节摘要公开；全书通常需订阅",
+    "note": "章节覆盖德国、英格兰、威尼斯、马德里、南北尼德兰等，可将漫游放回学徒—雇佣—独立开业的整个职业生命历程。 注意：学徒制和完成学徒后的漫游不同；不能用七年学徒、五年旅行等长度直接排行制度优劣。",
+    "locator": "Cambridge University Press",
+    "extra": [
+      [
+        "DOI",
+        "https://doi.org/10.1017/9781108690188"
+      ]
+    ]
+  },
+  {
+    "id": "C8",
+    "author": "Musée du Compagnonnage de Tours",
+    "year": "无日期",
+    "title": "Histoire／Premières traces",
+    "url": "https://www.museecompagnonnage.fr/index.php/le-compagnonnage/histoire",
+    "group": "时空比较",
+    "access": "机构网页开放",
+    "note": "晚中世纪起源保留为假说；1514至1580年代里昂与日内瓦印刷帮工组织的旅行、罢工和入会识别仪式有较确定记录。1419–1420及1464–1476的司法材料是更早线索。 注意：早期材料主要来自司法档案；被查禁者更容易留下记录，既不能把所有旅行者当成正式compagnonnage成员，也不能把缺乏记录等同不存在。",
+    "locator": "法国图尔伴工博物馆",
+    "extra": [
+      [
+        "补充入口",
+        "https://www.museecompagnonnage.fr/le-compagnonnage/histoire/premieres-traces"
+      ]
+    ]
+  },
+  {
+    "id": "C9",
+    "author": "Philippe Bernardi",
+    "year": "2006",
+    "title": "L’organisation des compagnons dans la Provence médiévale",
+    "url": "https://www.persee.fr/doc/prohi_0033-1856_2006_num_56_226_1445",
+    "group": "时空比较",
+    "access": "Persée开放扫描及文本",
+    "note": "把圣殿与祖师起源传说同可核对史料分离；讨论普罗旺斯帮工组织及早期组织记录。 注意：阅读时区分作者的组织证据与后来叙述中的起源神话；1506年巴黎禁令可证组织受压，但不足以倒推不间断的远古传承。",
+    "locator": "Provence historique 56(226): 361–373",
+    "extra": [
+      [
+        "DOI",
+        "https://doi.org/10.3406/prohi.2006.1445"
+      ]
+    ]
+  },
+  {
+    "id": "C10",
+    "author": "UNESCO",
+    "year": "2010列入名录",
+    "title": "Compagnonnage, network for on-the-job transmission of knowledge and identities",
+    "url": "https://ich.unesco.org/en/RL/compagnonnage-network-for-on-the-job-transmission-of-knowledge-and-identities-00441",
+    "group": "现代传统",
+    "access": "机构页面、申报文件入口开放",
+    "note": "今日compagnonnage结合国内外教育旅行、仪式、课堂和工作场所训练；平均约五年并考核作品。 注意：只用于现代制度和遗产化比较；不是1500年前后训练年限、组织形式和性别结构的证据。",
+    "locator": "非物质文化遗产名录，No.00441",
+    "extra": []
+  },
+  {
+    "id": "C11",
+    "author": "Patrick Wallis",
+    "year": "2008（开放工作论文2007）",
+    "title": "Apprenticeship and Training in Premodern England",
+    "url": "https://www.lse.ac.uk/Economic-History/Assets/Documents/Research/FACTS/WorkingPapers/2007/2207Wallis.pdf",
+    "group": "时空比较",
+    "access": "LSE开放工作论文PDF；与正式发表版本需区分",
+    "note": "17世纪伦敦大量学徒在合同期限前结束；作者以分阶段成本与回报解释，不把法定长期契约等同实际锁定。 注意：不能仅凭1563年七年规定推算所有人的实际受训时间，更不能把提前结束全部算作训练失败。",
+    "locator": "The Journal of Economic History 68(3): 832–861；LSE Working Paper 22/07",
+    "extra": [
+      [
+        "DOI",
+        "https://doi.org/10.1017/S002205070800065X"
+      ]
+    ]
+  },
+  {
+    "id": "C12",
+    "author": "Patrick Wallis",
+    "year": "2019",
+    "title": "Apprenticeship in England",
+    "url": "https://researchonline.lse.ac.uk/id/eprint/102783/1/Wallis_apprenticeship_in_england_accepted.pdf",
+    "group": "时空比较",
+    "access": "LSE开放接受稿PDF",
+    "note": "英格兰学徒制跨制造、贸易与服务；伦敦地位突出，地区分布及实际训练市场需要分别观察。 注意：全国法律框架不等于统一执行；英格兰比较的重点应是契约、准入及劳动力流动治理，而非假定具有德国式统一漫游阶段。",
+    "locator": "Prak & Wallis 编，Apprenticeship in Early Modern Europe，第9章",
+    "extra": []
+  },
+  {
+    "id": "C14",
+    "author": "Francesca Trivellato",
+    "year": "2008",
+    "title": "Guilds, Technology, and Economic Change in Early Modern Venice",
+    "url": "https://albert.ias.edu/entities/publication/9a1c1441-1f2a-4e51-a82f-f4c64f6e0a2d",
+    "group": "时空比较",
+    "access": "普林斯顿高等研究院知识库开放扫描全文",
+    "note": "以1450–1800的产业变化，尤其17–18世纪，解释不同群体为何选择不同创新。国家保护、外国竞争、原料和行会内部利益均影响结果。 注意：跨境招募与防止技术泄露并存不矛盾：雇主、地方政府、行会和工人并非同一行动者。文中1665–1666巴黎招募穆拉诺工匠属于1650之后的时间延伸。",
+    "locator": "Epstein & Prak 编，Guilds, Innovation, and the European Economy, 1400–1800，199–231",
+    "extra": [
+      [
+        "补充入口",
+        "https://albert.ias.edu/bitstream/handle/20.500.12111/7840/Trivellato_Guilds-Technology-Economic%20Change_2008.pdf"
+      ]
+    ]
+  },
+  {
+    "id": "C15",
+    "author": "Anna Bellavitis、Valentina Sapienza 编",
+    "year": "2023",
+    "title": "Apprenticeship, Work, Society in Early Modern Venice",
+    "url": "https://www.routledge.com/Apprenticeship-Work-Society-in-Early-Modern-Venice/Bellavitis-Sapienza/p/book/9781032053530",
+    "group": "时空比较",
+    "access": "出版社书介与目录公开；全书通常需购买或馆藏",
+    "note": "以1575–1772年威尼斯Giustizia Vecchia登记的逾54000份学徒契约为基础；提供把职业训练与日常劳动社会关系并读的档案入口。 注意：本次核对书介而未阅读全文；登记契约不能直接覆盖所有未登记训练与家内传艺。",
+    "locator": "Routledge，304页",
+    "extra": []
+  },
+  {
+    "id": "C16",
+    "author": "Jean Sorabella",
+    "year": "2003",
+    "title": "The Grand Tour",
+    "url": "https://www.metmuseum.org/essays/the-grand-tour",
+    "group": "时空比较",
+    "access": "博物馆学术导读开放",
+    "note": "16世纪晚期起北欧青年贵族以法国、意大利旅行完成古典教育；高费用限定了参与阶层。 注意：与Wanderjahre可比的是旅行如何产生知识与身份；不可混同资金来源、劳动关系及职业准入。17–18世纪盛期不是整个文艺复兴的共同经验。",
+    "locator": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History",
+    "extra": []
+  },
+  {
+    "id": "C17",
+    "author": "Christine Moll-Murata",
+    "year": "2008",
+    "title": "Chinese Guilds from the Seventeenth to the Twentieth Centuries: An Overview",
+    "url": "https://www.cambridge.org/core/journals/international-review-of-social-history/article/chinese-guilds-from-the-seventeenth-to-the-twentieth-centuries-an-overview/61A96EB7FF67CE0BE8073C36DDB049CD",
+    "group": "时空比较",
+    "access": "开放HTML及PDF",
+    "note": "中国会馆、公所与欧洲行会并非同义；较可靠新型组织证据集中于晚明万历及以后，广泛发展在18世纪中后期。会馆重同乡，公所重同业。 注意：比较互助、迁移信息与成员边界；不据此声称明清中国存在德式全国统一强制漫游。也不以19世纪组织成熟形态倒推15世纪。",
+    "locator": "International Review of Social History 53, Supplement 16: 213–247",
+    "extra": [
+      [
+        "DOI",
+        "https://doi.org/10.1017/S0020859008003672"
+      ]
+    ]
+  },
+  {
+    "id": "C18",
+    "author": "Mary Louise Nagata",
+    "year": "2008",
+    "title": "Brotherhoods and Stock Societies: Guilds in Pre-modern Japan",
+    "url": "https://www.cambridge.org/core/journals/international-review-of-social-history/article/brotherhoods-and-stock-societies-guilds-in-premodern-japan/80232105C29B649F36B16ABE1E3F425D",
+    "group": "时空比较",
+    "access": "开放HTML及PDF",
+    "note": "区分中世的座、近世国家设立或认可的座与株仲间；不同组织依赖不同的政治庇护、许可证、市场及契约执行机制。 注意：日本职人修行不能自动对应Wanderjahre；比较应落在准入、庇护与流动组织，尤其避免把所有被译为guild的组织视作同一种制度。",
+    "locator": "International Review of Social History 53, Supplement 16: 121–142",
+    "extra": [
+      [
+        "DOI",
+        "https://doi.org/10.1017/S0020859008003635"
+      ]
+    ]
+  },
+  {
+    "id": "C19",
+    "author": "Musée du Compagnonnage de Tours",
+    "year": "无日期",
+    "title": "Maîtres et compagnons des corporations",
+    "url": "https://www.museecompagnonnage.fr/genealogie/presentation/maitres-compagnons-corporations",
+    "group": "时空比较",
+    "access": "机构页面开放",
+    "note": "档案写compagnon charpentier只说明受雇的木匠，不能自动认定为Compagnon du Devoir或tour de France成员。 注意：对德国同样应先核查语境：职业等级、旅行行为与特定兄弟会成员身份是不同变量。",
+    "locator": "伴工博物馆家谱研究指南",
+    "extra": []
+  },
+  {
+    "id": "C20",
+    "author": "山岸吉弘",
+    "year": "2023",
+    "title": "中世陸奥国南部における大工技術の継承と蓄積",
+    "url": "https://doi.org/10.3130/aija.88.3076",
+    "group": "时空比较",
+    "access": "J-STAGE摘要与PDF开放",
+    "note": "通过区域建筑研究讨论外来工匠带入技术、本地继承和本地工匠能力积累，提供以生产遗存检验技术迁移的比较路径。 注意：本次仅核读摘要；不将其解释为存在欧洲式职业等级或法定漫游。进一步使用具体个案前应阅读全文。",
+    "locator": "日本建築学会計画系論文集 88(813): 3076–3082",
+    "extra": []
+  }
+]

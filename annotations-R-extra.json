@@ -1,0 +1,170 @@
+[
+  {
+    "id": "R1",
+    "read_scope": "核读开放HTML正文中的城乡组织、空间结构及社会经济后果等部分；引文取自作者正文。",
+    "summary": "文章将中欧行会史从城市内部扩展到城乡联系，考察农村行会的出现、与城市组织的协商及其对工匠生涯的影响。作者认为，城乡组织并非简单对立：共同承认技能与荣誉可以建立跨地域劳动市场，但城市仍保持优势，形成不完全平等的关系。",
+    "points": [
+      "行会提供旅舍、接待点、物质救助及联系人，使农村出身的帮工能够进入城市工作，再把经验带往其他地区。",
+      "农村设立行会可能有助于进入较广市场；但身份承认不等于完全平等，城市组织仍可能维护自身的优先权。",
+      "城乡关系应放进生命历程：青年进城谋职，与后来在乡村建立独立生计，可以是同一个人的不同阶段。"
+    ],
+    "quote": "Guilds were the social and cultural framework of this system of mobility, offering lodgings, ports of call, material support, and social contacts.",
+    "translation": "行会构成这一流动体系的社会与文化框架，提供住宿、接待点、物质支持和社会联系。",
+    "locator": "开放HTML，Social and economic consequences部分，论述帮工流动网络的段落；全文pp.143–158。",
+    "quote_kind": "作者正文",
+    "use": "为什么远行能够成为可重复的职业实践？本篇提示应寻找住宿、接待与资格承认的基础设施，并进一步比较城市与乡村承担的成本。",
+    "limits": "作者对农村行会的总体经济收益使用假说表述；文中的19世纪材料不能直接当成1500年前后的统计。",
+    "verification_excerpt": "Guilds were the social and cultural framework of this system of mobility, offering lodgings, ports of call, material support, and social contacts."
+  },
+  {
+    "id": "R2",
+    "read_scope": "核读作者摘要及开放PDF的研究背景、资料说明、阿姆斯特丹个案和结论（尤其pp.201–205、221–226）。",
+    "summary": "文章用18世纪海牙、哈勒姆与阿姆斯特丹的记录，比较帮工迁移、停留及取得大师资格的差异。作者将职业技能、婚姻与来源地同城市定居政策一起分析，发现允许外来者就业与允许其长期落脚并不相同，行会也不是决定迁移的唯一机构。",
+    "points": [
+      "不同职业与婚姻群体表现出不同移动方式；强制游历规则存在与否，不能单独解释观察到的迁移模式。",
+      "城市救济责任和定居规定影响去留；阿姆斯特丹的开放就业环境，也没有让外来帮工自动取得大师资格。",
+      "作者明确承认，迁移轨迹数据不足以证实技术扩散或人力资本积累；培训中心的解释仍有待进一步验证。"
+    ],
+    "quote": "migration and settlement patterns differed significantly by occupational sector, marital status, and skill level.",
+    "translation": "迁移与定居模式随职业部门、婚姻状况及技能水平而有显著差异。",
+    "locator": "作者摘要，第4句中的连续片段；PDF p.199。正文结论见pp.224–226。",
+    "quote_kind": "作者摘要",
+    "quote_url": "https://dspace.library.uu.nl/bitstream/handle/1874/423590/journeymen_migration_and_settlement_in_eighteenth_century_holland.pdf?isAllowed=y&sequence=1",
+    "use": "为什么有人不断流动而有人定居？把个人处境、职业需求、行会规则和市政政策分开考察，才能避免一律归因于求知或排斥。",
+    "limits": "18世纪荷兰是后期比较对象。迁移与定居的关联不能直接解释文艺复兴时期德国，更不能当作创新效果的测量。",
+    "verification_excerpt": "migration and settlement patterns differed significantly by occupational sector, marital status, and skill level."
+  },
+  {
+    "id": "R3",
+    "read_scope": "核读出版社公开Summary，内容为章节开篇的史学问题；未取得完整pp.114–142。",
+    "summary": "公开摘要反思一种长期影响历史书写的现代化叙事：为了凸显工业化带来的变化，把前工业社会预设成静止社会。作者据迁移研究的修正，将帮工游历与晚中世纪已经发展的专业劳动市场联系起来，要求重新评估前现代技术工人的流动。",
+    "points": [
+      "研究者采用怎样的现代化理论，会影响他们是否把前工业流动视为正常现象，还是仅视为战争和灾荒的例外。",
+      "有组织的帮工游历与专业劳动市场之间存在重要联系；但此处公开内容没有展示全章各行业的具体比较证据。"
+    ],
+    "quote": "For a long time historians systematically underestimated the mobility of workers in pre-industrial Europe",
+    "translation": "长期以来，历史学家系统性地低估了前工业欧洲工人的流动性。",
+    "locator": "Cambridge Core，Summary → Mobility of Pre-modern Skilled Workers，第1句开头的连续片段。",
+    "quote_kind": "出版社公开的章节开篇（标作Summary）",
+    "use": "为什么我们容易想象中世纪的人都不离乡？本篇适合用来检查研究预设：是否把工业化的对立面人为写成一个静止世界。",
+    "limits": "只概括公开开篇，不能据此复述全章分类或声称作者证明所有游历都传播创新。",
+    "verification_excerpt": "For a long time historians systematically underestimated the mobility of workers in pre-industrial Europe"
+  },
+  {
+    "id": "R4",
+    "read_scope": "核读德国历史博物馆展览网页全文及展品说明；未将展页导读等同于所展示自传的全文。",
+    "summary": "展页把工匠帮工与家仆放在近代早期人口流动史中，结合Güntzer自传图像、1773年职业证明及家仆条例，呈现学习、就业、战争和宗教冲突等多种迁移动因。材料同时显示，移动机会往往伴随身份查验、道德评价和雇佣纪律。",
+    "points": [
+      "Güntzer从帮工旅行到因战争和信仰被迫移居的经历，提示同一人的移动在不同阶段可以具有不同性质。",
+      "职业证明不仅确认工作经历，也评价忠诚、勤劳与行为；这种信用记录同时便利就业并使工人接受监督。"
+    ],
+    "quote": "Die Obrigkeiten reglementierten die Mobilität: Eine Fülle von Ordnungen und Erlassen zielte auf bessere Kontrolle der Wandernden und regelte ihren Aufenthalt.",
+    "translation": "当局对流动加以规制：大量条例与法令旨在加强对旅行者的控制，并规定其居留。",
+    "locator": "Szenen aus der Wanderschaft Augustin Güntzers图像说明之后、1731年Reichspatent说明之前。",
+    "quote_kind": "机构展览正文",
+    "use": "为什么证明身份的文件既能提供自由又能加强控制？可把Kundschaft与实际招聘、驱逐和停留期限记录对读，分析谁掌握信用。",
+    "limits": "展页把16世纪义务化作概述；须用地方和行业条例细化。1731及1773年证件材料属于后期延伸。",
+    "verification_excerpt": "Die Obrigkeiten reglementierten die Mobilität: Eine Fülle von Ordnungen und Erlassen zielte auf bessere Kontrolle der Wandernden und regelte ihren Aufenthalt."
+  },
+  {
+    "id": "R5",
+    "read_scope": "核读博物馆展览网页全文，包括1695年乞丐条例及图像说明。",
+    "summary": "展页说明贫困迫使许多人四处谋生，而定居等级社会将部分流动人口视为秩序与安全的威胁。通过流动手工业者图像、乞丐条例及暴力事件，它展示了有用人口与危险游民的区分如何形成，以及救助、经济需求和排斥政策怎样同时存在。",
+    "points": [
+      "被认可的流动取决于是否被视为有用、可控制；缺少固定住所并非纯粹经济事实，也成为治安分类的依据。",
+      "某些流动职业因经济价值而被容忍，却仍遭怀疑；救助真正穷人与打击乞讨也可出现在同一套政策中。"
+    ],
+    "quote": "In der Frühen Neuzeit war nur die kontrollierte Migration ‚nützlicher’ Untertanen erwünscht.",
+    "translation": "在近代早期，只有受到控制的、被认为有用的臣民迁移才受到欢迎。",
+    "locator": "网页标题后第2段第1句。引号为展页对历史分类的标示。",
+    "quote_kind": "机构展览正文",
+    "use": "为什么同样离乡，有人被称作求艺的帮工，有人被称作危险游民？应比较职业证明、救济资格、财产和地方权力，而非只比较动机。",
+    "limits": "这是展览综合说明，不是单一法律的原文；个别展品年代跨1479年至18世纪，不能合并成同一时刻的制度。",
+    "verification_excerpt": "In der Frühen Neuzeit war nur die kontrollierte Migration ‚nützlicher’ Untertanen erwünscht."
+  },
+  {
+    "id": "R6",
+    "read_scope": "新增取得同一1920年Heidrich编订本的Internet Archive／Wikimedia镜像，核对题名页、出版说明和《家庭编年》pp.12–13；未通读全书。",
+    "summary": "本书汇编丢勒的家庭纪事、旅行日记、书信与理论文字。此次核读的家庭纪事段落由丢勒回顾父亲安排的金匠训练、转学绘画、三年学徒期及1490至1494年的离乡经历，并接续回乡婚姻。职业成长因而与家族安排紧密相连。",
+    "points": [
+      "丢勒直接写到学徒结束后由父亲送出，约四年后又由父亲召回；远行在这里嵌入家庭权威与职业安排。",
+      "这段自述给出出发及返回的时间，却没有列出全部行经地点；确认发生旅行与重建具体路线需要不同证据。"
+    ],
+    "quote": "Und da ich ausgedient hatt, schickt mich mein Vater hinweg, und bliebe vier Jahr aussen",
+    "translation": "待我服满学徒期，父亲便送我出外，我在外待了四年。",
+    "locator": "1920年版，Familienchronik，印刷p.13；镜像PDF第17页。连续片段，保留该编订本的拼写。",
+    "quote_kind": "一手自述的现代编订本",
+    "quote_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Albrecht_D%C3%BCrers_schriftlicher_Nachlass_%28IA_albrechtdrerssch01dure%29.pdf#page=17",
+    "use": "为什么艺术家传记常把旅行写成个人自我发现，而本人却突出父亲安排？可结合婚姻、工坊与收入材料检验两种解释，不能把后来的天才叙事当成动机证据。",
+    "limits": "这是1524年回顾早年经历的文字，经1920年编辑出版；不是1490年的同期日记，也不是A17抄本的逐字校勘。",
+    "verification_excerpt": "Und da ich ausgedient hatt, schickt mich mein Vater hinweg, und bliebe vier Jahr aussen"
+  },
+  {
+    "id": "R7",
+    "read_scope": "核读Persée所提供的开篇印刷p.251及书目；本轮未稳定取得后续页正文。",
+    "summary": "开篇把晚中世纪欧洲技术空间的整合与熟练工人的迁移联系起来，认为大量知识存在于实践者的身体经验中。作者同时批评工匠总是安于本地的形象，提出临时迁移比永久迁居常见，而税收和定居资料容易漏掉前者，造成史学上的静止印象。",
+    "points": [
+      "作者把工人的移动列为技术扩散的重要渠道，理由在于技术知识常需现场实践，不能完全依靠手册或专利传递。",
+      "记录往往更注意危机驱动的迁移；临时往返也不易进入人口统计，因此史料的可见性会改变我们对流动规模的判断。"
+    ],
+    "quote": "most technical knowledge was tacit and embodied in its practitioners.",
+    "translation": "大部分技术知识是默会性的，并体现于实践者身上。",
+    "locator": "印刷p.251，正文第2句的末尾连续片段；Persée默认显示的第一页。",
+    "quote_kind": "作者正文（开篇）",
+    "use": "为什么熟练工迁移可能比搬运图纸更重要？又为什么档案会低估这种流动？这两问分别指向学习机制与史料生成机制，应分开验证。",
+    "limits": "这里呈现作者开篇论旨，不替代pp.252–269的完整论证；知识随人移动的可能性不等于每次旅行都产生创新。",
+    "verification_excerpt": "most technical knowledge was tacit and embodied in its practitioners."
+  },
+  {
+    "id": "C17",
+    "read_scope": "核读开放HTML中的术语、比较维度、培训与考试、无行会地区及结论等部分。",
+    "summary": "文章综述17至20世纪中国商业与手工业组织，区分以同乡为纽带的会馆与以同业为纽带的组织，比较经济管理、救济、宗教和政府关系。作者强调，中国组织不能直接套入欧洲行会概念，亲属网络、非正式组织与无行会地区同样重要。",
+    "points": [
+      "共同籍贯在异乡建立信任，可先于共同职业成为结社基础；组织既提供支持，也可能控制劳动和商品市场。",
+      "作者明确指出，并无要求学徒完成某段漫游的普遍条件；迁移与培训不能因此被等同于德国的游历资格制度。",
+      "组织形式应随地区规模及社会问题比较，不能以正式行会的数量来直接衡量一国商业或技能传播的程度。"
+    ],
+    "quote": "What are referred to as “Chinese guilds” are not quite the equivalent of European guilds.",
+    "translation": "所谓中国行会，并不完全等同于欧洲的行会。",
+    "locator": "开放HTML，术语讨论开头；并参看Training and testing、Guild-free zones、Conclusion。",
+    "quote_kind": "作者正文",
+    "use": "为什么两地都帮助异乡工匠，却不形成同一制度？应比较信任来自同乡、亲属还是资格证书，以及地方政府承认哪些组织权力。",
+    "limits": "重点为晚明以后尤其清代与民国；不能用19世纪成熟会馆倒推15世纪，也不应把中国概括为一种单一模式。",
+    "verification_excerpt": "What are referred to as “Chinese guilds” are not quite the equivalent of European guilds."
+  },
+  {
+    "id": "C18",
+    "read_scope": "核读开放HTML关于中世za、德川时期za与kabu nakama的分类、庇护关系及营业许可部分。",
+    "summary": "文章区分日本中世依靠私人庇护的座、近世服务国家控制的座以及株仲间，说明被共同译为行会的组织实际上拥有不同权利基础。中世竞争发生在商人、组织和庇护者之间；统一政权后来废除部分组织，又建立或承认适合治理需要的新组织。",
+    "points": [
+      "中世座的市场、道路和资源权利取决于庇护者的政治能力；垄断没有消除竞争，而是将竞争扩大到组织和权力层面。",
+      "近世株仲间的株可以构成营业许可并发生买卖或租让；这种市场准入权不能直接理解成欧洲工匠的训练资格。",
+      "国家既可能以促进市场为由废除组织，也可能为控制重要产业而设立组织；同一名称的延续不说明制度功能不变。"
+    ],
+    "quote": "All their rights and privileges depended on having patrons with enough power and influence to guarantee them.",
+    "translation": "他们的一切权利与特权，都依赖于拥有足够权力和影响力来保障它们的庇护者。",
+    "locator": "中世brotherhoods部分，归纳道路、市场和资源准入竞争之后的段落；全文pp.121–142。",
+    "quote_kind": "作者正文",
+    "use": "为什么同样存在职业结社，移动和市场准入仍需不同的政治担保？可将庇护权、营业许可、技术资格分别比较，避免只按guild译名归类。",
+    "limits": "本篇研究组织与政治经济关系，不是日本职人巡游史；不能据此推定存在统一、强制的日本版Wanderjahre。",
+    "verification_excerpt": "All their rights and privileges depended on having patrons with enough power and influence to guarantee them."
+  },
+  {
+    "id": "C20",
+    "read_scope": "在摘要之外新增核读日文PDF的第4节后半及第5节总结；目视核对印刷p.3080。",
+    "summary": "作者利用南陆奥的寺社造营文书、栋札等有限材料，追踪外来大工、本地大工与番匠的关系。他将变化概括为13至14世纪、15世纪及16世纪三个阶段：外来高阶技能输入、本地组织与知识积累，以及番匠技术能力和社会地位的上升。",
+    "points": [
+      "技术扩散不仅要问谁来到某地，还应考察本地是否形成持续生产组织、传承关系，以及能够独立工作的工匠。",
+      "作者提醒，寺社材料使高等级工程较易进入历史记录；普通住宅及无名番匠缺少记录，史料呈现只是一部分实际活动。",
+      "从无名劳力到有姓名、有财产和特权的番匠，技能史与社会地位史相互关联，但这一变化仍是区域性重建。"
+    ],
+    "quote": "史料から浮かび上がる史実は最低限の範囲であり",
+    "translation": "从史料中浮现的史实，只涉及最低限度的范围。",
+    "locator": "印刷p.3080，右栏第5节「大工にまつわる南奥の中世」第1段中连续片段；PDF第5页。",
+    "quote_kind": "作者日文正文",
+    "quote_url": "https://www.jstage.jst.go.jp/article/aija/88/813/88_3076/_pdf/-char/ja#page=5",
+    "use": "为什么我们更容易看见著名工匠而看不见普通技术劳动者？本篇提供一条比较路径：以生产记录和身份称谓补充行会条例，并追问保存偏差。",
+    "limits": "作者的分期建立在有限区域材料上，包含推测性重建；不能扩展为日本全国的统一训练制度，更不是法定漫游的证据。",
+    "verification_excerpt": "史料から浮かび上がる史実は最低限の範囲であり"
+  }
+]

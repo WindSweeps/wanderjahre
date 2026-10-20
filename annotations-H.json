@@ -1,0 +1,325 @@
+[
+  {
+    "id": "H1",
+    "title": "Das Wiener Handwerksordnungsbuch (1364–1555). Edition und Kommentar",
+    "author": "Markus Gneiß",
+    "year": "2017",
+    "source_url": "https://e-book.fwf.ac.at/api/object/o:1123/get",
+    "read_scope": "开放全书；重点核对评注中学徒、帮工与师傅各节，以及条例Nr.84（235–236页）、Nr.153（298–300页）；并非通读672页。",
+    "summary": "本书校勘维也纳1364—1555年的手工业条例，并研究学徒、帮工、师傅和城市权力的关系。1443年鞋匠条例把招工安排与离城处罚相连；1481年打金箔工条例却要求结业后留师工作。两例显示，流动和留用都可能成为分配劳力、保护雇主利益的制度工具。",
+    "points": [
+      "1443年条例要求接受旅舍内首先接洽的师傅并试工八天；拒绝者须离城，一年内不得另投本城市其他师傅，但可改为服务首次接洽的师傅。",
+      "1481年条例规定学徒结业后为原师傅有薪工作两年；外来帮工申请成为师傅前，还须在维也纳工作两年。"
+    ],
+    "quote": "in aim jar kainem andern maister hie nicht arbaitten",
+    "translation": "一年内不得在这里为任何其他师傅工作。",
+    "locator": "236页，条例Nr.84，第3条；引文起于同段中部。",
+    "quote_kind": "1443年城市条例原文的现代校勘本",
+    "use": "这是反驳统一旅行制度想象的核心史料。可以追问：被迫旅行究竟教育了谁、保护了谁？同时用留用条款检验将所有帮工阶段都理解为必须远行的说法。",
+    "limits": "条例说明制定者希望形成的秩序；执行频率与帮工实际绕行策略仍需账簿、诉讼等材料核验。",
+    "verification_excerpt": "und in aim jar kainem andern maister hie nicht arbaitten, oder aber",
+    "extra_urls": []
+  },
+  {
+    "id": "H2",
+    "title": "Handwerk in Europa. Vom Spätmittelalter bis zur Frühen Neuzeit",
+    "author": "Knut Schulz (ed.)",
+    "year": "1999",
+    "source_url": "https://www.historischeskolleg.de/wp-content/uploads/1999/08/Kolloquien41.pdf",
+    "read_scope": "已升级取得原机构整书PDF；读编者导论VII–XVII页、Elkar章216–218页及Holbach章234–236页；核对全书目录，未通读各章。",
+    "summary": "论文集把手工业迁移置于跨城市网络、宗教组织、劳动力市场与技术传播中比较。编者提醒，十四至十五世纪的招徕劳力不能与十六世纪后期的职业封闭混同；罗马和卑尔根的类似工匠群体，又提示研究迁出地组织与同乡支持，而不能只凭目的地繁荣解释迁移。",
+    "points": [
+      "导论主张比较同时追踪谁迁移、为何迁移、如何到达何处及其后果；时期和工种差异决定哪些解释可以成立。",
+      "技术传播各章结论并不一致：受管制帮工旅行、城市招徕专家和产业迁移是不同过程，应分别检验其作用。"
+    ],
+    "quote": "Wer wanderte? Warum wanderten Handwerker? Wie und wohin wanderten sie?",
+    "translation": "谁在迁移？手工业者为什么迁移？他们如何迁移，又去往何处？",
+    "locator": "编者导论XVI页，介绍Reininghaus论文的段落。",
+    "quote_kind": "编者导论正文",
+    "use": "适合建立横向比较的共同问题，而不是寻找单一德国模式。可把罗马、尼德兰、伦敦、奥斯曼材料并置，再追问网络、市场和国家支持分别如何改变迁移。",
+    "limits": "整书已可访问，但这里只概括导论和已读段落；不能把编者的概括当成每位作者一致认可的结论。",
+    "verification_excerpt": "so zusammenfassen: Wer wanderte? Warum wanderten Handwerker? Wie und wohin wanderten sie?",
+    "extra_urls": [
+      [
+        "机构介绍与目录",
+        "https://www.historischeskolleg.de/mediathek/publikationen/schriften-des-historischen-kollegs-kolloquien/handwerk-in-europa/"
+      ]
+    ]
+  },
+  {
+    "id": "H3",
+    "title": "Die Gesellenordnungen des spätmittelalterlichen Wiener Handwerksordnungsbuches: Analyse und Edition",
+    "author": "Markus Gneiß",
+    "year": "2014",
+    "source_url": "https://utheses.univie.ac.at/detail/30380",
+    "read_scope": "重读维也纳大学仓储的德文、英文作者摘要与学位信息；全文入口返回401，未取得论文正文。",
+    "summary": "摘要介绍十五至十六世纪前半叶维也纳帮工条例的整理。早期争议集中于工资、工时、休息和副业，1439年城市总条例之后，兄弟会的宗教慈善活动更清楚可见。会费与罚款维持疾病借款、葬礼和弥撒，同时规定公共行为及城市防卫义务，组织兼具保护与约束。",
+    "points": [
+      "帮工组织并非只为提高工资：对通常没有市民权的短期外来者，疾病援助、葬礼和宗教共同体也十分重要。",
+      "组织资金来自会费与罚款，旅舍既是交往中心，也支持纪律执行；互助与对成员行为的规范应同时分析。"
+    ],
+    "quote": "eine soziale und spirituelle Absicherung ihrer Mitglieder",
+    "translation": "为成员提供社会与精神层面的保障。",
+    "locator": "德文摘要，第7段：以Finanziert wurden diese Aktivitäten起首的段落。",
+    "quote_kind": "作者摘要",
+    "use": "提供从雇佣制度转向流动者日常保障的入口：没有本地亲族和市民身份时，为什么旅舍、共同基金和宗教仪式能够支撑跨城生活？可与H1条例互证。",
+    "limits": "目前依据作者摘要；1439年的作用，作者自己也提醒不宜夸大。2017年扩充专著应优先核查。",
+    "verification_excerpt": "Die Gesellenschaften kümmerten sich so um eine soziale und spirituelle Absicherung ihrer Mitglieder",
+    "extra_urls": []
+  },
+  {
+    "id": "H6",
+    "title": "Kleines Biechlin von meinem gantzen Leben – Mein Reißbiechlin (17. Jahrhundert)",
+    "author": "Augustin Güntzer；German Historical Institute Washington 编介",
+    "year": "1615 travel / c.1657 memoir",
+    "source_url": "https://germanhistory-intersections.org/de/migration/ghis:document-46",
+    "read_scope": "重读网站完整自传节选与机构导读，原版本标注125–127页；未通读整部回忆录或原稿。",
+    "summary": "节选记述铸锡匠Güntzer于1615年出门旅行时的物资准备和一次遇袭。他获得父亲提供的皮衣、用品与十二弗罗林，另有自己的储蓄；父亲又因士兵活动建议路线。随后叙述以武器、同行者和神助摆脱强盗，呈现家庭资助、道路风险和宗教自我理解相互交织。",
+    "points": [
+      "旅行并不等于没有依赖的自由：出发资金、衣物和路线意见来自家庭，个人选择建立在可以动用的资源之上。",
+      "遇盗叙事既包含风险经验，也以神意获救塑造自我形象；它不能直接用来估计当时的犯罪率或一般旅行概率。"
+    ],
+    "quote": "gab mihr zugehohrige Nodtdurfft wie auch 12 fl. in Gelt.",
+    "translation": "给我所需用品，以及十二弗罗林钱。",
+    "locator": "Quelle正文第1段；网站所列2012年编辑本125–127页。",
+    "quote_kind": "Güntzer本人回忆录原文，网站转录节选",
+    "use": "可以将制度研究中的抽象流动者还原为有家庭、有储蓄、会怕危险的人。追问谁承担出发成本、谁有能力结伴防卫，能补足行会条例看不见的旅行条件。",
+    "limits": "这是约1657年的回顾性叙述；网页导读与历史作者原话已分开，具体事件仍需要其他记载交叉验证。",
+    "verification_excerpt": "von Leder, gab mihr zugehohrige Nodtdurfft wie auch 12 fl. in Gelt.",
+    "extra_urls": [
+      [
+        "1657年自传手稿目录与影像入口",
+        "https://doi.org/10.7891/E-MANUSCRIPTA-13484"
+      ]
+    ]
+  },
+  {
+    "id": "H7",
+    "title": "Die Reisen des Kannengießers Güntzer",
+    "author": "Philipp Meisner / Universität Gießen, GiesKaNe project",
+    "year": "2023",
+    "source_url": "https://www.uni-giessen.de/de/fbz/fb05/germanistik/forschung/sprache/gieskane/blog/guentzers-reisen",
+    "read_scope": "重读研究项目文章全部正文、地图说明和两条方法注释；未逐页校对其引用的1657年原稿。",
+    "summary": "文章为GiesKaNe语料项目中的Güntzer自传片段绘制旅行地图，叙述其意大利行程和后来经波罗的海赴英国的经历。作者说明所用语料约覆盖1618—1621年，首段旅程与第二次旅程结尾均缺失。宗教隐匿、饥饿、疾病和误判陌生人，使地图呈现出旅行经验的复杂性。",
+    "points": [
+      "地图只显示语料片段明确提及的地点，并非完整行程；在没有记录的地方画连续路线，会制造超出史料的确定性。",
+      "Güntzer把旅行欲望置于职业之外，还因家庭催婚与宗教不满再次出门；解释动机不能只保留职业培训一项。"
+    ],
+    "quote": "Unser Abschnitt umfasst etwa den Zeitraum von 1618-1621.",
+    "translation": "我们的片段大约覆盖1618—1621年。",
+    "locator": "文章注释[1]第3句。",
+    "quote_kind": "现代项目文章的方法说明",
+    "use": "这是把自我见证转为地图的可操作范例，也能反问可视化丢掉了什么：地点不等于就业，路线不等于强制义务，叙述空白更不等于当事人没有活动。",
+    "limits": "作者明确只用约一万二千词语料；一些风险与心理解释来自自传及既有编辑研究，不是独立档案验证。",
+    "verification_excerpt": "Unser Abschnitt umfasst etwa den Zeitraum von 1618-1621. Es fehlen also",
+    "extra_urls": []
+  },
+  {
+    "id": "H8",
+    "title": "Hans Sachs, Silberweise (1513)",
+    "author": "Hans Sachs；GHDI/German Historical Institute Washington",
+    "year": "1513 source",
+    "source_url": "https://germanhistorydocs.org/de/von-den-reformationen-bis-zum-dreissigjaehrigen-krieg-1500-1648/hans-sachs-silberweise-1513",
+    "read_scope": "重读GHDI两段机构导读、页面所列歌词与录音来源；未分析乐谱或完整音乐史背景。",
+    "summary": "这一音乐史料页面将1513年的Silberweise与纽伦堡鞋匠Hans Sachs联系起来，并介绍他在帮工旅行阶段接触Meistersang的经历。导读说明这种城市诗歌和演唱活动具有组织与严格创作规则；因而工匠的流动所得可以包括文学和音乐能力，不能只按生产效率衡量。",
+    "points": [
+      "机构导读把Sachs的帮工旅行与诗歌演唱学习相联系，提示工作迁移可能同时构成跨城市的文化学习经历。",
+      "导读中的歌唱大师称号依靠创作新旋律并准确演唱取得；它与鞋匠成为行会师傅的资格不能直接合并。"
+    ],
+    "quote": "erlernte die Kunst des Meistersangs während seiner Wanderjahre als Geselle",
+    "translation": "在作为帮工旅行的年月里学会了大师歌的艺术。",
+    "locator": "Kurzbeschreibung第1段第1句中部。",
+    "quote_kind": "GHDI机构导读；不是Sachs歌词或自述",
+    "use": "用来拓宽何谓知识的研究口径：如果旅行使人掌握音乐、叙事或社交规则，为什么只有技术创新才算有效学习？同时应追问名人的存世作品会造成何种样本偏差。",
+    "limits": "此处引用导读而不引歌词；Sachs是特殊成功者，不能据此估计普通帮工的文化参与比例。",
+    "verification_excerpt": "ein Schuhmacher aus Nürnberg, erlernte die Kunst des Meistersangs während seiner Wanderjahre als Geselle",
+    "extra_urls": []
+  },
+  {
+    "id": "H9",
+    "title": "Thomas Platter",
+    "author": "FU Berlin / Selbstzeugnisse im deutschsprachigen Raum",
+    "year": "database, accessed 2026-10-07",
+    "source_url": "https://www.geschkult.fu-berlin.de/e/jancke-quellenkunde/verzeichnis/p/tplatter/index.html",
+    "read_scope": "重读资料库各节：人物履历、版本、研究文献、写作日期、受众、功能与手稿传承；未读其指定1999年自传版本全文。",
+    "summary": "资料库系统整理Thomas Platter从牧童、流浪学生、绳匠到教师、印刷商的多重身份，并列出自传版本与手稿信息。它把1572年的写作放回父子关系和家族传统建构之中：自传既回忆贫困与流动，也教导儿子理解已有生活条件，不能当作毫无选择的事实清单。",
+    "points": [
+      "职业并非单线替换：资料库记载绳匠帮工活动与人文学学习同时存在，提醒研究者不要套用现代职业分科。",
+      "自传主要面向儿子及旧日学生，具有教导和家族传统建构功能；写作对象影响哪些困难、成就和关系被突出。"
+    ],
+    "quote": "Seiler, Geißhirt; Lehrer, Drucker; Schulleiter; Humanist; Bürger und Zunftgenosse Basels",
+    "translation": "绳匠、牧童；教师、印刷商；校长；人文主义者；巴塞尔市民及行会成员。",
+    "locator": "1.1 Name, Tätigkeiten und Positionen。",
+    "quote_kind": "学术资料库的人物与史料说明",
+    "use": "适合作为自传研究的校核清单：先分辨学生漫游、手工训练与其他谋生迁移，再追问晚年为何如此组织童年。它还提供寻找历史版本和后续研究的路径。",
+    "limits": "这里概括的是资料库说明，不是Platter本人原话；其求学旅行不可整体标作规范化帮工旅行。",
+    "verification_excerpt": "Seiler, Geißhirt; Lehrer, Drucker; Schulleiter; Humanist; Bürger und Zunftgenosse Basels; ref. (zw.); verh.",
+    "extra_urls": []
+  },
+  {
+    "id": "H10",
+    "title": "Platter, Thomas",
+    "author": "Edgar Bonjour / Historisches Lexikon der Schweiz",
+    "year": "2010 version",
+    "source_url": "https://hls-dhs-dss.ch/de/articles/010787/2010-09-28/",
+    "read_scope": "重读HLS词条全文、作者信息及参考书目；2009版，2010年9月28日修订。",
+    "summary": "Bonjour概述Platter从牧童与游学少年成为绳匠、教师、印刷商和巴塞尔学校主管的生涯。他在苏黎世学习古典语言、接受绳匠训练并转向宗教改革，后来印行加尔文著作。词条最后强调1572年为儿子写作自传，是其人生得以被后世了解的重要媒介。",
+    "points": [
+      "古典语言学习、手工训练与宗教改革在人生中相互交叠；宗教和教育网络也是流动机会的重要组成部分。",
+      "他的谋生包含教学、印刷和学生寄宿经营，说明成为熟练手工业者并非职业经历唯一终点或唯一身份。"
+    ],
+    "quote": "Später war P. in Basel Seilergeselle und Lehrer",
+    "translation": "后来，P.在巴塞尔同时做绳匠帮工与教师。",
+    "locator": "人物正文第2段开头。",
+    "quote_kind": "Edgar Bonjour撰写的现代学术百科正文",
+    "use": "可与H9共同检验一条流动履历中哪些段落属于手工劳动，哪些属于教育或宗教行动。比较能把文艺复兴的人文教育与日常谋生联系起来，同时保留制度差异。",
+    "limits": "百科为简短传记，不能据此重建行会规则；H9与本词条个别年表细节有差别，应回到版本和档案核定。",
+    "verification_excerpt": "Später war P. in Basel Seilergeselle und Lehrer, nahm 1529 am 1. Kappelerkrieg teil",
+    "extra_urls": []
+  },
+  {
+    "id": "H11",
+    "title": "Die Entstehung der Gesellengilden im Spätmittelalter",
+    "author": "Wilfried Reininghaus",
+    "year": "1981",
+    "source_url": "https://iucat.iu.edu/iub/1648076",
+    "read_scope": "仅核验IUCAT馆藏书目和馆员MARC记录；未取得专著正文、作者摘要或可信的详细目录。",
+    "summary": "本书研究晚期中世纪帮工组织的形成，由Reininghaus在明斯特大学的博士论文改写，1981年收入社会经济史丛书。已见馆藏记录确认其主题、篇幅与参考书目位置，却没有提供论证摘要。因此本条只能交代研究对象与检索价值，不能伪装成已阅读专著后概括出的主要结论。",
+    "points": [
+      "可确认的范围是德国帮工社团的历史及其形成问题；书目主题分类不能证明作者主张某一种单一的起源解释。",
+      "全书参考文献位于283—354页，值得用于追查地域史与原始文献；未见这些页面前，不能声称已逐条评估。"
+    ],
+    "quote": "Includes index. Bibliography: p. 283-354.",
+    "translation": "附索引；参考文献见283—354页。",
+    "locator": "IUCAT书目Notes字段。",
+    "quote_kind": "图书馆编目说明；非作者正文",
+    "use": "这是一项待全文补读的重要书目。它应与已读的条例研究结合，用来追问宗教兄弟会、劳动互助和组织抗争究竟何时、怎样结合，而暂不承担具体史实证明。",
+    "limits": "无法可靠概括其独有论点；检索到的Google Books目录混入另一部书的内容，已排除不用。",
+    "verification_excerpt": "Includes index. Bibliography: p. 283-354.",
+    "extra_urls": [
+      [
+        "馆员原始编目记录",
+        "https://iucat.iu.edu/catalog/1648076/librarian_view"
+      ]
+    ]
+  },
+  {
+    "id": "H12",
+    "title": "Wandergesellen auf der Walz – Vergangenheitsrelikt oder Hochschule des Handwerks?",
+    "author": "Markus Römer",
+    "year": "2024",
+    "source_url": "https://www.zdh.de/fileadmin/Oeffentlich/Gewerbefoerderung/Gewerbefoerderung_neu/Kultur/Dissertationsschrift_Wandergesellen_auf_der_Walz_-_Markus_Roemer.pdf",
+    "read_scope": "开放博士论文；重点读导论、历史综述30–38页，以及结论243–248页相关段落和全文目录；未逐段复核全部田野材料。",
+    "summary": "论文以当代民族志研究Walz的生活、劳动学习和文化意义，并先梳理历史背景。它反对仅以服装和固定旅行规则把旅人当作怀旧景观；结论强调学习效果取决于工种、可进入的企业以及是否获得有责任的任务。历史部分同样要求按工种和时期判断旅行的教育价值。",
+    "points": [
+      "短期受雇不自动产生深度学习：工序复杂、商业秘密或雇主只分配杂务，都可能限制旅人进入核心生产环节。",
+      "职业学习与冒险、人际经验和个人成长相互交织；旅行者各自的经历不同，不能用统一理想代替实际观察。"
+    ],
+    "quote": "nur für bestimmte Gewerke und konkrete historische Zeitabschnitte möglich",
+    "translation": "只能针对特定工种与具体历史时期才有可能。",
+    "locator": "38页，2.2节末段；句子始于37页末。",
+    "quote_kind": "作者正文，历史综述中的方法判断",
+    "use": "既能作为与历史制度对照的当代材料，也能提供跨时期的检验问题：旅行是否真的带来复杂任务与指导机会？现代田野中的机制可提出假设，但不能直接证明古代同样如此。",
+    "limits": "核心证据是当代田野，历史部分多为二手综述；任何现代人数、服饰和时间限制均不应倒推十五世纪。",
+    "verification_excerpt": "Aussagen sind – wenn überhaupt – nur für bestimmte Gewerke und konkrete historische Zeitabschnitte möglich.",
+    "extra_urls": []
+  },
+  {
+    "id": "H13",
+    "title": "Fonds de Turckheim-Truttenhausen, Sous-série 4 J. Répertoire numérique détaillé",
+    "author": "Christine Heider / Archives de la Région Alsace",
+    "year": "2008",
+    "source_url": "https://www.grandest.fr/wp-content/uploads/2017/08/inventaire-fonds-de-turckheim.pdf",
+    "read_scope": "核读官方档案目录79页4J145–146条及年代校订注，另核题名页与档案背景；未查看原件影像。",
+    "summary": "这份详细档案目录保存了研究1436年莱茵帮工条例的明确线索。条目概述斯特拉斯堡城市代表会议限制帮工结盟、独立饮酒会馆、携刀和工作日葬礼的规定，并要求向师傅和城市当局宣誓。编者还解释原件无年份，借助其他传本将旧刊误记的1465年校正为1436年。",
+    "points": [
+      "规定同时限制组织、聚会场所和时间安排，说明当局关切的不只是生产技术，还有帮工形成自主集体的能力。",
+      "1436年的断代来自传本比较，而不是文书直接署年；研究制度起源前，必须先检验旧版年代是否可靠。"
+    ],
+    "quote": "les compagnons n’auront pas le droit de se coaliser",
+    "translation": "帮工不得结盟。",
+    "locator": "印刷页79，4J145条；PDF第79页。",
+    "quote_kind": "档案馆现代法文内容提要，非1436年德文原文",
+    "use": "与维也纳较被认可的互助组织并置，可追问为什么某些城市联合压制集体行动。使用时必须把禁止发生、实际遵守和长期消失三种命题分开，不能从法令直接推知结果。",
+    "limits": "已见的是现代档案摘要；没有原件全文，结盟的法律含义和条款具体执行仍待原文与城市记录。",
+    "verification_excerpt": "Entre autres prescriptions, les compagnons n’auront pas le droit de se coaliser (buntnisse machen)",
+    "extra_urls": []
+  },
+  {
+    "id": "H14",
+    "title": "Zünfte am Oberrhein im Spätmittelalter. Selbstdarstellung und Ausstrahlungen",
+    "author": "Knut Schulz",
+    "year": "2008 (online 2014)",
+    "source_url": "https://journals.ub.uni-heidelberg.de/index.php/vuf/article/view/16958",
+    "read_scope": "重核出版元数据；PDF下载受访问验证限制，但已读搜索索引返回的正文308页与339页完整相关段落。未通读全文。",
+    "summary": "已核段落把上莱茵看作由语言、货币及城市联系构成的区域，同时分析巴塞尔锁匠帮工的广泛来源。来者不只来自近邻，最密集来源区约在百至二百五十公里，远方也占有位置。作者把短期停留与城市吸纳受训年轻劳力的政策联系起来，提示区域性并不等于封闭性。",
+    "points": [
+      "锁匠帮工的来源分布不同于一般新市民迁入图，说明把永久定居记录直接代替流动劳工记录，会低估远距联系。",
+      "十四、十五世纪人口损失背景下，部分上莱茵城市减免市民资格费用吸引熟练来者；排斥外来者并非恒定政策。"
+    ],
+    "quote": "häufig für ein halbes oder gelegentlich ein ganzes Jahr",
+    "translation": "往往停留半年，有时一年。",
+    "locator": "339页，倒数第1个正文段落，说明帮工在一城停留及登记条件。",
+    "quote_kind": "作者正文，通过可检索的PDF文字索引核读",
+    "use": "这篇区域研究能够把跨城网络与地方制度放在同一尺度上：为何同一地区会吸引远方帮工，却仍要求在地登记？还可用它检查把历史流动压成现代国家边界的地图。",
+    "limits": "只核读308、339页，未读全部论证和图表；引文中的停留期也不是覆盖所有工种的法定旅行年限。",
+    "verification_excerpt": "begrenzter Dauer, häufig für ein halbes oder gelegentlich ein ganzes Jahr, was meist",
+    "extra_urls": [
+      [
+        "正文PDF",
+        "https://journals.ub.uni-heidelberg.de/index.php/vuf/article/download/16958/10775"
+      ]
+    ]
+  },
+  {
+    "id": "H15",
+    "title": "Arcana artis? Wissens- und Technologietransfer im frühneuzeitlichen Handwerk",
+    "author": "Reinhold Reith",
+    "year": "2014",
+    "source_url": "https://doi.org/10.5169/seals-391848",
+    "read_scope": "已升级取得E-Periodica全文PDF，核读25–32页正文与33–34页注释；包括纽伦堡禁行工种、十八世纪政策争论及Fischer个案。",
+    "summary": "文章考察迁移如何传播工艺知识，并反对只用突破性创新评判旅行价值。作者区分受雇帮工流动与招徕专家等机制，核查纽伦堡禁行工种的形成时间，再以政策辩论、迁移路线和个人经历提出：旅行更常积累工作经验、人际能力与职业资格，这些收益不能简化为带走雇主秘密。",
+    "points": [
+      "纽伦堡的禁行工种在不同时期形成，多数所论工种在1641年后才被禁行；不能把后期保密措施泛推至整个文艺复兴。",
+      "作者主张考察工作和生活技能：跨工坊接触不同人员、原料、产品与组织方式，可能增进经验而未必产生突破性创新。"
+    ],
+    "quote": "was die Migration der Gesellen für den Transfer von Know-how bedeutete",
+    "translation": "帮工迁移对于专门知识的转移究竟意味着什么。",
+    "locator": "25页，德文作者摘要第1段末句；PDF第2页。",
+    "quote_kind": "作者摘要，已与期刊扫描页核对",
+    "use": "是进入Walz教育价值争论的直接入口，可与Elkar的澄清并读。首先追问测量对象究竟是个人熟练、群体经验还是雇主竞争优势，再选择与之对应的证据。",
+    "limits": "正文案例横跨多个世纪，Fischer主要属于十八世纪末；积极论证也承认突出人物不能代表所有帮工。",
+    "verification_excerpt": "Frage, was die Migration der Gesellen für den Transfer von Know-how bedeutete.",
+    "extra_urls": [
+      [
+        "全文PDF下载",
+        "https://www.e-periodica.ch/cntmng?pid=fer-002%3A2014%3A86%3A%3A148"
+      ],
+      [
+        "机构摘要",
+        "https://www.eisenbibliothek.ch/en/publications/ferrum/all-issues/86-2014.html"
+      ]
+    ]
+  },
+  {
+    "id": "H16",
+    "title": "Eine gescheiterte Existenz? Leben und Leiden eines Reutlinger Goldschmieds in der Heimat und in der Fremde",
+    "author": "Rainer S. Elkar",
+    "year": "2022",
+    "source_url": "https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/173888/RGB_Ausgabe_2022_Online.pdf?isAllowed=y&sequence=1",
+    "read_scope": "开放整期期刊；重点读论文89–114页叙论与案例分析，核对印刷101页注30；未逐封校读114页后全部书信编辑。",
+    "summary": "Elkar借十九世纪金匠Otto Baur的书信重建外地谋生、失业与职业受挫。旅行首先需要通过短期劳动维持生活，其理想收益受到工作机会和生活条件制约。作者同时澄清自己对知识转移的怀疑：他并未否定迁移可以学习，而是质疑帮工普遍取得并带走雇主创新优势的证据是否充足。",
+    "points": [
+      "日常书信中找工作与失业反复出现，提示应先研究生计压力，再检验旅行是否提供足够稳定而有效的学习。",
+      "作者明确区分一般知识转移与取得雇主独占创新优势；只反驳后者证据薄弱，不等于断言所有迁移学习无效。"
+    ],
+    "quote": "Grundsätzlich ist ein Wissenstransfer durch Migration nicht unmöglich.",
+    "translation": "原则上，通过迁移转移知识并非不可能。",
+    "locator": "印刷101页注30；PDF第102页。",
+    "quote_kind": "作者正文脚注中的方法论澄清",
+    "use": "这是一条有用的纵向反问：教育收益是否只是成功者回忆中更容易留下的内容？它还能纠正把学术争论说成旅行必有价值或完全无用的二选一。",
+    "limits": "案例发生于十九世纪，不能作为文艺复兴时期的直接证据；本文承担后期比较与论证方法校准的作用。",
+    "verification_excerpt": "Überspitzungen. Grundsätzlich ist ein Wissenstransfer durch Migration nicht unmöglich.",
+    "extra_urls": []
+  }
+]
